@@ -1,0 +1,311 @@
+[Script Info]
+Title: pn-SomeSubs - Black Clover Season 2
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbackitalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Ep Title,Trebuchet MS,24,&H0065A7CE,&H000000FF,&H64070805,&H000D1728,-1,-1,0,0,100,100,0,0,1,1,0,8,30,30,75,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,main,RESISTANCE MEMBER 1,0,0,0,,{\fs17\an7\fe162\b1\fad(400,400)\bord2\blur5\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)\c&HFFFF00&\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} ibrahimhilmiykr\N{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Umav\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 9,0:00:11.23,0:00:12.37,main,RESISTANCE MEMBER 1,0,0,0,,Hiçbir işe yaramadı!
+Dialogue: 9,0:00:12.37,0:00:15.49,main,RESISTANCE MEMBER 2,0,0,0,,Böyle bir şeyi yenmek imkansız.
+Dialogue: 9,0:00:18.01,0:00:22.90,italics,MEREOLEONA,0,0,0,,Karşısında büyümün işe  \Nyaramadığı şeyle karşılaştığım an.
+Dialogue: 9,0:00:30.61,0:00:32.21,flashback,MEREOLEONA,0,0,0,,Kim olduğunu bilmiyorum ama.
+Dialogue: 9,0:00:36.41,0:00:37.59,flashback,MEREOLEONA,0,0,0,,Ne istiyorsun?
+Dialogue: 9,0:00:38.87,0:00:41.69,flashback,NACHT,0,0,0,,Söylentiler kadar varmışsın.
+Dialogue: 9,0:00:41.69,0:00:43.90,flashback,NACHT,0,0,0,,Önce kıyafetlerini giymeye ne dersin?
+Dialogue: 9,0:00:45.58,0:00:49.70,flashback,MEREOLEONA,0,0,0,,Bayağı ilginç birisin dövüşmek ister misin?
+Dialogue: 9,0:00:49.70,0:00:51.36,flashback,NACHT,0,0,0,,Asla olmaz.
+Dialogue: 9,0:00:52.29,0:00:54.99,flashback,MEREOLEONA,0,0,0,,Ha. Yami ve Vengeance.
+Dialogue: 9,0:00:55.34,0:00:58.89,flashback,MEREOLEONA,0,0,0,,O aptalların kaçırılması zerre umrumda değil.
+Dialogue: 9,0:00:58.89,0:01:01.08,flashback,MEREOLEONA,0,0,0,,Ben onları kaçıranlarla ilgileniyorum.
+Dialogue: 9,0:01:02.76,0:01:07.78,flashback,NACHT,0,0,0,,Gelişimini görmek için \Nsana mükemmel rakibi getirdim.
+Dialogue: 9,0:01:12.91,0:01:13.98,main,MEREOLEONA,0,0,0,,Bu gerçekden.
+Dialogue: 9,0:01:15.07,0:01:16.37,main,MEREOLEONA,0,0,0,,Eğlenceli!
+Dialogue: 9,0:01:21.02,0:01:23.67,main,MEREOLEONA/I,0,0,0,,Çok daha güçlenebileceğimi öğrendim.
+Dialogue: 9,0:01:25.48,0:01:26.94,main,MEREOLEONA,0,0,0,,Alev Büyüsü...
+Dialogue: 9,0:01:34.58,0:01:36.37,main,MEREOLEONA,0,0,0,,Cehennem Alevi!
+Dialogue: 9,0:01:39.37,0:01:41.29,italics,ALBERT,0,0,0,,Dehşet verici bir mana!
+Dialogue: 9,0:01:41.64,0:01:45.79,italics,ALBERT,0,0,0,,Sanki bedeni manadan oluşuyor gibi!
+Dialogue: 9,0:02:00.48,0:02:03.62,italics,MEREOLEONA,0,0,0,,Her şeyi yakıp yıkmadan önce.
+Dialogue: 9,0:02:03.62,0:02:06.44,italics,MEREOLEONA,0,0,0,,Bir efsaneyi yeneceğim!
+Dialogue: 9,0:02:27.41,0:02:29.88,italics,MEREOLEONA,0,0,0,,Mana Alanı: Tam Erişim.
+Dialogue: 9,0:02:33.83,0:02:38.10,italics,MEREOLEONA,0,0,0,,Calidos Brachium Araf: Uçurum!
+Dialogue: 9,0:02:47.64,0:02:49.37,main,MEREOLEONA,0,0,0,,Uykuna dön!
+Dialogue: 9,0:02:50.08,0:02:53.30,main,MEREOLEONA,0,0,0,,Bu sefer sonsuza dek!
+Dialogue: 0,0:04:18.59,0:04:23.99,Ep Title,sign,0,0,0,,{\c&HFFFEFF&\pos(318,97)}Cehheneme Giden Kapı
+Dialogue: 9,0:04:28.40,0:04:33.00,main,ZENON,0,0,0,,Sanırım içeri sızan fareler \Ndirenişden değildi.
+Dialogue: 9,0:04:33.44,0:04:36.76,main,ZENON,0,0,0,,Niye hala hayattasın?
+Dialogue: 9,0:04:37.01,0:04:39.70,main,YUNO,0,0,0,,Kaptan Vengeance'ın büyüsü sayesinde.
+Dialogue: 9,0:04:40.17,0:04:42.02,main,YUNO,0,0,0,,Seni yendikden sonra.
+Dialogue: 9,0:04:42.76,0:04:44.72,main,YUNO,0,0,0,,Onu geri alacağız!
+Dialogue: 9,0:04:46.59,0:04:48.64,italics,YUNO,0,0,0,,Güçlerini biliyorum.
+Dialogue: 9,0:04:49.04,0:04:51.21,italics,YUNO,0,0,0,,Kusursuz savunma  \Niçin Kemik Büyüsünü kullanıyor.
+Dialogue: 9,0:04:51.60,0:04:54.26,italics,YUNO,0,0,0,,Aşırı dayanıklılık ve\Nyenilenme hızına sahipler.
+Dialogue: 9,0:04:54.26,0:04:56.90,italics,YUNO,0,0,0,,Fiziksel atakların çoğu işlevsiz kalıyor.
+Dialogue: 9,0:04:57.61,0:05:00.69,main,ZENON,0,0,0,,Anlıyorum. \NNe kadar da aptalca.
+Dialogue: 9,0:05:01.18,0:05:03.13,main,ZENON,0,0,0,,Kendi Krallığında bekleseydin.
+Dialogue: 9,0:05:03.13,0:05:05.91,main,ZENON,0,0,0,,Biraz daha yaşayabilirdin.
+Dialogue: 9,0:05:06.38,0:05:11.17,main,LANGRIS,0,0,0,,Duyduğuma göre ben yokken  \Nbayağı eğlenmişsiniz.
+Dialogue: 9,0:05:11.62,0:05:16.30,main,LANGRIS,0,0,0,,Üzgünüm ama ben buna izin \Nverecek adam değilim!
+Dialogue: 9,0:05:16.30,0:05:18.48,main,LANGRIS,0,0,0,,Baş Melekin Düşüşü!
+Dialogue: 9,0:05:19.09,0:05:21.09,main,ZENON,0,0,0,,Bir Uzay Büyüsü demek?
+Dialogue: 9,0:05:24.51,0:05:27.97,italics,YUNO,0,0,0,,Ve iblis güçleri ile \NUzayı kontrol ediyor.
+Dialogue: 9,0:05:28.63,0:05:30.77,italics,YUNO,0,0,0,,Bölge üzerindeki \Nmananın kontrolü onda.
+Dialogue: 9,0:05:30.77,0:05:34.25,italics,YUNO,0,0,0,,düşmanın manası ile\Netkileşime girip onu durdurabiliyor.
+Dialogue: 9,0:05:34.96,0:05:39.99,main,ZENON,0,0,0,,Büyük ihtimalle ben burada olmasam \Nen güçlü uzay büyücüsü olurdun.
+Dialogue: 9,0:05:39.99,0:05:43.36,main,LANGRIS,0,0,0,,Benle böyle konuşmaya\Ncesaret eden birini görmeyeli.
+Dialogue: 9,0:05:43.36,0:05:44.85,main,LANGRIS,0,0,0,,Uzun zaman oldu!
+Dialogue: 9,0:05:45.20,0:05:49.37,italics,LANGRIS,0,0,0,,Uzay Büyüsü: Baş Melekin Azabı!
+Dialogue: 9,0:05:49.81,0:05:52.61,main,ZENON,0,0,0,,Seni buraya uzay büyümü\Nyok etme amacıyla.
+Dialogue: 9,0:05:52.94,0:05:55.79,main,ZENON,0,0,0,,Gönderdiklerini anlıyorum ama.
+Dialogue: 9,0:05:56.11,0:06:00.42,main,ZENON,0,0,0,,Uzay Büyüsü: Uzaysal Mana Hakimiyeti.
+Dialogue: 9,0:06:03.32,0:06:08.93,italics,LANGRIS,0,0,0,,Bir büyücü bu alana girdiğinde, \Nbüyülerine hakim olamazlar.
+Dialogue: 9,0:06:09.71,0:06:12.18,main,LANGRIS,0,0,0,,Hareket etmeden mi yaptı?
+Dialogue: 9,0:06:12.86,0:06:14.75,main,LANGRIS,0,0,0,,Duygularına yenik mi düştün?
+Dialogue: 9,0:06:14.75,0:06:18.68,main,LANGRIS,0,0,0,,Daha önce yenilmiş birine yoldaşlık \Netmek kadar aptalca bir şey yok.
+Dialogue: 9,0:06:19.22,0:06:23.95,main,LANGRIS,0,0,0,,Aynı kaptanınız gibi\Naptalca kararlar veriyorsunuz.
+Dialogue: 9,0:06:24.43,0:06:26.84,main,ZENON,0,0,0,,Değersiz onur ve hayaller.
+Dialogue: 9,0:06:26.84,0:06:29.33,main,ZENON,0,0,0,,Bu huyunuz yüzünden.
+Dialogue: 9,0:06:29.69,0:06:34.33,main,ZENON,0,0,0,,Olduğum yerden hiç kıpırdamadan \Nikinizde öleceksiniz.
+Dialogue: 9,0:06:36.39,0:06:38.45,main,YUNO,0,0,0,,Hadi gidelim Bell!
+Dialogue: 9,0:06:40.61,0:06:41.46,main,BELL,0,0,0,,Evet!
+Dialogue: 9,0:06:42.12,0:06:44.59,main,BELL,0,0,0,,İşte buradasın seni kemikli ucube!
+Dialogue: 9,0:06:49.98,0:06:53.00,main,BELL,0,0,0,,Önceden yaptıklarının\Nbedelini ödeyeceksin!
+Dialogue: 9,0:06:53.93,0:06:56.79,main,BELL,0,0,0,,Yuno ve ben seni yeneceğiz!
+Dialogue: 9,0:06:59.09,0:07:00.90,italics,YUNO,0,0,0,,Ruh Dalışı!
+Dialogue: 9,0:07:08.03,0:07:10.47,italics,YUNO,0,0,0,,Boreas'ın Ruhu!
+Dialogue: 9,0:07:11.35,0:07:15.29,italics,ZENON,0,0,0,,Bu baskı ve o büyü formu da ne?
+Dialogue: 9,0:07:15.60,0:07:19.79,italics,ZENON,0,0,0,,Pek mühim değil\Nbu alanda tamamen güçsüz.
+Dialogue: 9,0:07:20.07,0:07:22.55,main,YUNO,0,0,0,,Ben Büyücü Kralı olacak adamım.
+Dialogue: 9,0:07:23.04,0:07:26.43,italics,YUNO,0,0,0,,Beni yenmene izin vermeyeceğim.
+Dialogue: 9,0:07:27.74,0:07:31.13,italics,ZENON,0,0,0,,Mutlak Uzaydaki mana \Nbenim kontrolüm altında değil.
+Dialogue: 9,0:07:31.13,0:07:34.31,italics,ZENON,0,0,0,,Daha kuvvetli bir güçle mi kontrol ediyor?
+Dialogue: 9,0:07:34.77,0:07:36.81,italics,ZENON,0,0,0,,Hayır sadece.
+Dialogue: 9,0:07:38.87,0:07:41.32,italics,ZENON,0,0,0,,Mana tarafından seviliyor!
+Dialogue: 9,0:07:45.04,0:07:48.82,main,YUNO,0,0,0,,Senin kılına zarar veremeden ölecektik.
+Dialogue: 9,0:07:48.82,0:07:50.20,main,YUNO,0,0,0,,Böyle miydi?
+Dialogue: 9,0:07:58.06,0:07:59.33,main,YUNO,0,0,0,,Gibi.
+Dialogue: 9,0:07:59.71,0:08:04.08,main,YUNO,0,0,0,,Altın Şafak'a bulaştığına\Npişman ol ve geber!
+Dialogue: 9,0:08:05.51,0:08:09.51,main,LANGRIS,0,0,0,,Sen cidden kaybetmeyi ölmek kadar nefret ediyorsun.
+Dialogue: 9,0:08:10.72,0:08:11.83,italics,LANGRIS,0,0,0,,İşe yarıyor!
+Dialogue: 9,0:08:11.83,0:08:14.47,italics,LANGRIS,0,0,0,,Bu herifi yeneceğiz, \N Qliphoth'un başlangıcını durduracağız.
+Dialogue: 9,0:08:15.17,0:08:17.50,italics,LANGRIS,0,0,0,,Ve Kaptan Vengeance'ı kurtaracağız!
+Dialogue: 9,0:08:21.68,0:08:23.48,main,VANICA,0,0,0,,Hadi ama.
+Dialogue: 9,0:08:23.81,0:08:28.24,main,VANICA,0,0,0,,Duydum ki istilacılar varmış \Nama ikinizde küçük Noelle değilsiniz.
+Dialogue: 9,0:08:28.64,0:08:33.49,main,VANICA,0,0,0,,Umarım bana sizinle savaşmanın\N eğlenceli olduğunu kanıtlarsınız.
+Dialogue: 9,0:08:34.30,0:08:35.49,main,VANICA,0,0,0,,Ama ondan önce.
+Dialogue: 9,0:08:35.49,0:08:38.90,main,VANICA,0,0,0,,Şu ikisini yenemiyorsanız, \Nzamanıma layık değilsiniz demekdir.
+Dialogue: 9,0:08:40.07,0:08:41.87,italics,CHARLOTTE,0,0,0,,Sarmaşık Yaratım Büyüsü.
+Dialogue: 9,0:08:42.23,0:08:43.88,italics,CHARLOTTE,0,0,0,,Ceset-Avcısı Sarmaşık Ağaçları!
+Dialogue: 9,0:08:44.31,0:08:45.25,main,VANICA,0,0,0,,Aslında.
+Dialogue: 9,0:08:45.25,0:08:49.76,main,VANICA,0,0,0,,Morrisin dönüşümü ve \Nbenim lanetime kıyasla bayağı güçlüler.
+Dialogue: 9,0:08:54.76,0:08:55.97,italics,RILL,0,0,0,,Görüntü Büyüsü.
+Dialogue: 9,0:08:56.93,0:08:58.97,italics,RILL,0,0,0,,Deprem!
+Dialogue: 9,0:08:59.69,0:09:01.87,italics,RILL,0,0,0,,Siren'in Oyunu!
+Dialogue: 9,0:09:09.20,0:09:10.61,main,VANICA,0,0,0,,Hmm...
+Dialogue: 9,0:09:10.90,0:09:13.48,main,VANICA,0,0,0,,Görüntü büyüsüyle.
+Dialogue: 9,0:09:13.48,0:09:15.17,main,VANICA,0,0,0,,Bir sürü özellik kullanabiliyor \N olman güzel.
+Dialogue: 9,0:09:15.17,0:09:17.49,main,VANICA,0,0,0,,Ama tek olayı bu gibi.
+Dialogue: 9,0:09:17.75,0:09:21.02,main,VANICA,0,0,0,,Ve sarmaşık büyüsü hiç kullanışlı değil.
+Dialogue: 9,0:09:21.02,0:09:24.77,main,VANICA,0,0,0,,Uyum sorunları var ama \No kesinlikle sana ayak bağı oluyor.
+Dialogue: 9,0:09:24.77,0:09:26.27,main,VANICA,0,0,0,,Hadi ama.
+Dialogue: 9,0:09:26.27,0:09:30.40,main,VANICA,0,0,0,,Dante'yi döven Anti-Büyü\N bebesiyle dövüşmek isterdim.
+Dialogue: 9,0:09:30.40,0:09:33.83,main,VANICA,0,0,0,,Ve Kara Büyü kullanan o bunak ile.
+Dialogue: 9,0:09:34.26,0:09:37.61,main,VANICA,0,0,0,,Ardından onları \Noyuncağım haline getirecektim.
+Dialogue: 9,0:09:37.61,0:09:41.65,main,VANICA,0,0,0,,Fakat onun ölmesi bize cehennemin\N kapılarını aralayacak olan şey.
+Dialogue: 9,0:09:41.65,0:09:43.23,main,VANICA,0,0,0,,Yani sadece tahammül etmek zorundayım.
+Dialogue: 9,0:09:43.48,0:09:47.11,main,VANICA,0,0,0,,Zenon onu yakalamayı başarmıştı.
+Dialogue: 9,0:09:47.11,0:09:50.18,main,VANICA,0,0,0,,Yani sanırım o kadar da büyük bir şey değil.
+Dialogue: 9,0:09:53.01,0:09:56.70,italics,CHARLOTTE,0,0,0,,Geçen altı ayda kaptanlık \Ngörevlerimi sürdürürken.
+Dialogue: 9,0:09:56.70,0:09:59.95,italics,CHARLOTTE,0,0,0,,Kalp Krallığının Rün Parşomenlerine çalıştım.
+Dialogue: 9,0:10:00.25,0:10:03.67,flashback,POTROF,0,0,0,,Aman Allah'ım! \NCharlotte sen bu işte bir dahisin.
+Dialogue: 9,0:10:04.47,0:10:08.29,flashback,MEMBER 1,0,0,0,,Kaptan yine o \NParşomenleri mi çalışıyor?
+Dialogue: 9,0:10:08.29,0:10:11.42,flashback,MEMBER 2,0,0,0,,Çok çalışkan biri olduğundan\N ne zaman duracağını bilmiyor.
+Dialogue: 9,0:10:11.42,0:10:15.43,italics,CHARLOTTE,0,0,0,,Büyüme ve bana güçlü\Nbir lanet uygulanmasına rağmen.
+Dialogue: 9,0:10:15.89,0:10:19.68,italics,CHARLOTTE,0,0,0,,Onu nasıl kontrol edip\Nkendi lehime kullanmayı öğrendim.
+Dialogue: 9,0:10:20.21,0:10:22.09,italics,CHARLOTTE,0,0,0,,En azından öyle zannetmiştim yanılmışım.
+Dialogue: 9,0:10:23.10,0:10:26.93,italics,CHARLOTTE,0,0,0,,Lanet büyümü azaltan \Ngüçlü bir zincir.
+Dialogue: 9,0:10:26.93,0:10:32.94,italics,CHARLOTTE,0,0,0,,Büyü parşömenlerinde uzmanlaşarak\Nlanetli sarmaşıkları kullanmanın en iyi yolunu buldum!
+Dialogue: 9,0:10:33.24,0:10:34.90,italics,CHARLOTTE,0,0,0,,Dorothy dedi ki.
+Dialogue: 9,0:10:35.37,0:10:39.29,flashback,DOROTHY,0,0,0,,Bu dünyadaki Lanet büyüsü \NMegicula ile başladı.
+Dialogue: 9,0:10:39.29,0:10:42.04,flashback,DOROTHY,0,0,0,,Megicula tüm büyülerin yaratıcısı.
+Dialogue: 9,0:10:43.46,0:10:46.53,main,CHARLOTTE,0,0,0,,Senin sayende ben.
+Dialogue: 9,0:10:49.06,0:10:51.01,main,CHARLOTTE,0,0,0,,Güçlendim!
+Dialogue: 9,0:10:52.24,0:10:55.89,italics,RILL,0,0,0,,Büyülerime Mana Metodu'nu uyguladı.
+Dialogue: 9,0:10:57.94,0:11:01.72,main,RILL,0,0,0,,Acaba iyi manalı toprak ve su\N büyümelerine yardımcı oluyor mudur?
+Dialogue: 9,0:11:02.13,0:11:04.94,main,CHARLOTTE,0,0,0,,Mana Metoduyla güçlendirilmiş Sarmaşıklar.
+Dialogue: 9,0:11:07.00,0:11:08.72,italics,CHARLOTTE,0,0,0,,Mavi Gül Cenneti.
+Dialogue: 9,0:11:11.22,0:11:13.94,main,CHARLOTTE,0,0,0,,Düşmanın laneti ne kadar\N güçlüyse o kadar soğurur.
+Dialogue: 9,0:11:13.94,0:11:17.45,main,CHARLOTTE,0,0,0,,Ve bu güller daha güzel açar.
+Dialogue: 9,0:11:17.45,0:11:21.01,main,VANICA,0,0,0,,O ikisinin zayıflatma laneti mi var?
+Dialogue: 9,0:11:22.33,0:11:23.72,main,MEGICULA,0,0,0,,O insan.
+Dialogue: 9,0:11:23.72,0:11:26.72,main,MEGICULA,0,0,0,,Laneti kendi üzerinde geliştirdi.
+Dialogue: 9,0:11:26.72,0:11:29.84,main,MEGICULA,0,0,0,,Ve onu Anti-Lanet \Nbüyüsüne dönüştürdü.
+Dialogue: 9,0:11:30.32,0:11:33.65,italics,MEGICULA,0,0,0,,Birinin böyle bir şey \Nyapabildiğini görmek.
+Dialogue: 9,0:11:33.65,0:11:34.84,italics,MEGICULA,0,0,0,,Ne kadar şaşırtıcı!
+Dialogue: 9,0:11:37.79,0:11:41.29,italics,CHARLOTTE,0,0,0,,Görevlerim ve Büyü Şövalyeleri ile tatlı rekabetim.
+Dialogue: 9,0:11:42.04,0:11:43.65,italics,CHARLOTTE,0,0,0,,Elf olarak reenkarne oluşum.
+Dialogue: 9,0:11:44.43,0:11:46.85,italics,CHARLOTTE,0,0,0,,Kalp Krallığının Rün Parşomenleri.
+Dialogue: 9,0:11:48.08,0:11:51.62,italics,CHARLOTTE,0,0,0,,Şu ana kadar her şey \NBüyülerim için besin oldu.
+Dialogue: 9,0:11:53.16,0:11:56.25,main,CHARLOTTE,0,0,0,,Bunlar şu anki Mavi Güllerim.
+Dialogue: 9,0:11:56.25,0:11:57.82,main,CHARLOTTE,0,0,0,,Bunlar ise.
+Dialogue: 9,0:12:01.53,0:12:04.20,main,CHARLOTTE,0,0,0,,Meşru Kızıl Güllerim!
+Dialogue: 9,0:12:05.37,0:12:11.13,main,CHARLOTTE,0,0,0,,Şu an, kırmızı ve mavi\NGüllerin ikisini de kullanabiliyorum
+Dialogue: 9,0:12:11.35,0:12:14.82,italics,CHARLOTTE,0,0,0,,Gerçek Sarmaşık Büyüsü: Sarmaşıklar Kraliçesi!
+Dialogue: 9,0:12:15.86,0:12:19.84,italics,CHARLOTTE,0,0,0,,Seni kurtarıp, ne kadar \Ngüçlendiğimi göstereceğim!
+Dialogue: 9,0:12:20.57,0:12:21.56,italics,CHARLOTTE,0,0,0,,Yami!
+Dialogue: 9,0:12:22.33,0:12:27.59,italics,RILL,0,0,0,,Bir Dakika, Charlotte gerçek\Ngüçlerini kullanmadan mı kaptan oldu?
+Dialogue: 9,0:12:33.36,0:12:36.65,main,VANICA,0,0,0,,En iyi rakibimi buldum!
+Dialogue: 9,0:12:37.41,0:12:38.32,main,VANICA,0,0,0,,Ha?
+Dialogue: 9,0:12:38.61,0:12:42.24,main,CHARLOTTE,0,0,0,,Ne yazık ki, seninle savaşmayacağım.
+Dialogue: 9,0:12:42.24,0:12:43.92,main,VANICA,0,0,0,,Ne diyorsun sen?!
+Dialogue: 9,0:12:43.92,0:12:46.79,main,VANICA,0,0,0,,Kendimi bir çırpıda çözeceğim ve.
+Dialogue: 9,0:12:47.07,0:12:50.66,main,CHARLOTTE,0,0,0,,Gücün o sarmaşıklara \Nkarşı hiçbir şey yapmayacak.
+Dialogue: 9,0:12:50.66,0:12:54.54,main,CHARLOTTE,0,0,0,,Ne kadar güç uygularsan, \Nseni o kadar sıkı tutar.
+Dialogue: 9,0:12:54.82,0:12:58.31,main,MEGICULA,0,0,0,,Olamaz kendi\Ngücümü bana karşı mı kullandı?
+Dialogue: 9,0:12:58.31,0:13:01.63,main,VANICA,0,0,0,,Hadi ama! Birazcık eğlensene!
+Dialogue: 9,0:13:01.63,0:13:03.18,main,VANICA,0,0,0,,Hadi!
+Dialogue: 9,0:13:03.18,0:13:04.38,main,CHARLOTTE,0,0,0,,Umursamazdın.
+Dialogue: 9,0:13:04.38,0:13:08.09,main,CHARLOTTE,0,0,0,,Kibirliydin ve gardını indirdin\N bunların yaşanmasının sebebi bu.
+Dialogue: 9,0:13:08.09,0:13:10.42,main,VANICA,0,0,0,,Hadi ama yapma böyle!
+Dialogue: 9,0:13:10.42,0:13:15.36,main,VANICA,0,0,0,,Gelmiş geçmiş en iyi \Ndövüşü yapacağımızı biliyorum.
+Dialogue: 9,0:13:15.36,0:13:19.07,main,CHARLOTTE,0,0,0,,Senin gibi gülünç kadınları hiç sevmiyorum.
+Dialogue: 9,0:13:19.52,0:13:22.39,main,CHARLOTTE,0,0,0,,Dileğini gerçekleştiremeden toz ol.
+Dialogue: 9,0:13:22.39,0:13:24.21,main,CHARLOTTE,0,0,0,,Bu.
+Dialogue: 9,0:13:25.38,0:13:26.73,main,CHARLOTTE,0,0,0,,Senin cezan.
+Dialogue: 9,0:13:30.71,0:13:33.71,italics,JACK,0,0,0,,Ölüm Tırpanı: Deli Kesik.
+Dialogue: 9,0:13:37.57,0:13:39.54,main,DANTE,0,0,0,,Morris'in Büyü Bilimi.
+Dialogue: 9,0:13:39.54,0:13:43.87,main,DANTE,0,0,0,,Bedenimin yenilenme\Nözelliğini bayağı güçlendirdi.
+Dialogue: 9,0:13:44.22,0:13:47.79,main,DANTE,0,0,0,,Bana zarar verme şansı  \Nolan tek şey.
+Dialogue: 9,0:13:50.13,0:13:52.81,main,DANTE,0,0,0,,Anti-Büyü.
+Dialogue: 9,0:13:53.50,0:13:54.83,italics,NACHT,0,0,0,,Fark ettim evet.
+Dialogue: 9,0:13:54.83,0:13:56.73,italics,NACHT,0,0,0,,Ama kazanacaksak.
+Dialogue: 9,0:13:57.03,0:13:59.90,main,JACK,0,0,0,,Isınmaya başladım!
+Dialogue: 9,0:13:59.90,0:14:02.54,italics,NACHT,0,0,0,,Jack'in kesilmeyen şeyleri \Nkesebilme ihtimali olan.
+Dialogue: 9,0:14:02.54,0:14:04.99,italics,NACHT,0,0,0,,Büyüsüne güvenmeliyiz.
+Dialogue: 9,0:14:04.99,0:14:06.33,italics,NACHT,0,0,0,,Ancak.
+Dialogue: 9,0:14:06.33,0:14:08.24,main,DANTE,0,0,0,,Durum böyle.
+Dialogue: 9,0:14:10.21,0:14:12.37,main,DANTE,0,0,0,,Senin için bir görevim yok.
+Dialogue: 9,0:14:12.80,0:14:15.88,italics,DANTE,0,0,0,,Yerçekimi Büyüsü: İblis Kralın Varlığı.
+Dialogue: 9,0:14:16.91,0:14:21.63,italics,NACHT,0,0,0,,Asıl soru Jack Yerçekimi büyüsü \Ntarafından ezilirken saldırabilir mi?
+Dialogue: 9,0:14:21.63,0:14:22.99,main,NACHT,0,0,0,,Slotos.
+Dialogue: 9,0:14:29.23,0:14:31.74,italics,NACHT,0,0,0,,Şeytan Birleşme Modu: Equus.
+Dialogue: 9,0:14:31.74,0:14:33.64,italics,NACHT,0,0,0,,Kişilik:Sert.
+Dialogue: 9,0:14:33.64,0:14:39.27,main,DANTE,0,0,0,,Oha! Anti-Büyü elemandan başka \Niblis birleşimi yapanlarda varmış.
+Dialogue: 9,0:14:40.85,0:14:41.89,main,NACHT,0,0,0,,Oh?
+Dialogue: 9,0:14:42.90,0:14:46.91,main,NACHT,0,0,0,,Noldu? Az önce fişek gibiydin.
+Dialogue: 9,0:14:46.91,0:14:49.76,main,NACHT,0,0,0,,Büyük olan tek şey \Nboyun ve tavrın mı?
+Dialogue: 9,0:14:49.76,0:14:51.88,main,NACHT,0,0,0,,Peygamber Devesi Kaptanı?
+Dialogue: 9,0:14:52.43,0:14:54.83,main,NACHT,0,0,0,,Boş yapma.
+Dialogue: 9,0:14:54.83,0:14:57.54,main,NACHT,0,0,0,,Bırak da yeteneklerin\Nsenin yerine konuşsun, ne dersin?
+Dialogue: 9,0:14:57.85,0:14:59.50,main,JACK,0,0,0,,Neden seni.
+Dialogue: 9,0:14:59.96,0:15:02.67,main,DANTE,0,0,0,,Beni görmezden gelme!
+Dialogue: 9,0:15:03.31,0:15:07.25,main,NACHT,0,0,0,,Az susar mısın? \NŞu an kaptanla konuşuyorum.
+Dialogue: 9,0:15:16.09,0:15:19.80,main,DANTE,0,0,0,,Ne kadar güzel daha da kötüleş!
+Dialogue: 9,0:15:20.23,0:15:23.82,main,DANTE,0,0,0,,Geçit açılana kadar \Nbeni eğlendirebilecek misin?
+Dialogue: 9,0:15:23.82,0:15:26.84,italics,NACHT,0,0,0,,Baş başa dövüşebiliriz \Nama kritik bir vuruş yapamam.
+Dialogue: 9,0:15:26.84,0:15:28.72,italics,NACHT,0,0,0,,Bu herifi öldüremem.
+Dialogue: 9,0:15:29.43,0:15:32.08,italics,NACHT,0,0,0,,Bir şekilde Jack'in \Nsaldırmasını sağlamam lazım.
+Dialogue: 9,0:15:32.55,0:15:34.76,main,DANTE,0,0,0,,Öteki tarafda şu yere \Nsabitlenmiş olan.
+Dialogue: 9,0:15:34.76,0:15:36.71,main,DANTE,0,0,0,,Sana "Kaptan" dediğini duydum.
+Dialogue: 9,0:15:37.18,0:15:39.46,main,DANTE,0,0,0,,Sen çok sıkıcısın.
+Dialogue: 9,0:15:39.46,0:15:40.21,main,DANTE,0,0,0,,Yolumdan Çekil.
+Dialogue: 9,0:15:49.03,0:15:51.41,italics,JACK,0,0,0,,Babam sıradan bir avcıydı.
+Dialogue: 9,0:15:51.41,0:15:54.56,italics,JACK,0,0,0,,Geçimini küçük hayvanlar ve kuşlar ile sağlardı.
+Dialogue: 9,0:15:54.98,0:15:58.73,italics,JACK,0,0,0,,Her zaman "Senden güçlü görünen \Nhiçbir şeye bulaşma" derdi.
+Dialogue: 9,0:15:59.57,0:16:02.73,italics,JACK,0,0,0,,Muhafazakar ve güvenilir birisiydi.
+Dialogue: 9,0:16:04.59,0:16:09.04,italics,JACK,0,0,0,,Büyülü kılıçların varlığını\Nöğrendiğinde çok heyecanlanmıştı.
+Dialogue: 9,0:16:09.04,0:16:12.33,italics,JACK,0,0,0,,Avcılar için biçilmiş kaftan olduğuna inanırdı.
+Dialogue: 9,0:16:12.73,0:16:14.93,italics,JACK,0,0,0,,Tıpkı babam gibi, bende.
+Dialogue: 9,0:16:14.93,0:16:17.83,italics,JACK,0,0,0,,Kendimden zayıf yaratıkları \N avlayıp doğradım.
+Dialogue: 9,0:16:26.06,0:16:30.09,flashback,YOUNG JACK,0,0,0,,Tüm hayatımı \Nböyle mi geçireceğim?
+Dialogue: 9,0:16:36.18,0:16:41.27,italics,JACK,0,0,0,,On üç yaşımda babam dağlardan \Nölü bir adam olarak geri geldi.
+Dialogue: 9,0:16:41.94,0:16:44.77,italics,JACK,0,0,0,,Yani bunun olacağını tahmin ediyordum.
+Dialogue: 9,0:16:45.31,0:16:46.48,italics,JACK,0,0,0,,Söylentiye göre avlanırken.
+Dialogue: 9,0:16:46.48,0:16:49.43,italics,JACK,0,0,0,,Dağların Lorduna denk gelmiş.
+Dialogue: 9,0:16:50.19,0:16:54.21,italics,JACK,0,0,0,,Sırtında devasa pençe izleri vardı.
+Dialogue: 9,0:17:08.03,0:17:10.38,flashbackitalics,YOUNG JACK,0,0,0,,Sorun yok. Kazanabilirim.
+Dialogue: 9,0:17:23.13,0:17:24.07,flashback,YOUNG JACK,0,0,0,,Huh.
+Dialogue: 9,0:17:24.07,0:17:26.21,flashback,YOUNG JACK,0,0,0,,Sanırım Büyü Şövalyelerine katılacağım.
+Dialogue: 9,0:17:33.82,0:17:34.82,italics,NACHT,0,0,0,,Bu eleman.
+Dialogue: 9,0:17:35.58,0:17:38.24,italics,NACHT,0,0,0,,Kılıçlarını kendi zırhında mı biliyor?
+Dialogue: 9,0:17:39.83,0:17:41.71,italics,JACK,0,0,0,,Sadece.
+Dialogue: 9,0:17:42.01,0:17:45.59,main,DANTE,0,0,0,,Yalvarmak ve korunmak istiyorum çok acınası.
+Dialogue: 9,0:17:45.84,0:17:48.85,italics,JACK,0,0,0,,Önümdeki güçlü olduğu \Nsöylenen elemanları yenmek için.
+Dialogue: 9,0:17:48.85,0:17:53.22,main,DANTE,0,0,0,,Yami Sukehiroda bir Kaptandı \Nama eğlenceliydi.
+Dialogue: 9,0:17:55.98,0:17:57.75,italics,JACK,0,0,0,,Ve onları doğramak için!
+Dialogue: 9,0:18:00.76,0:18:02.48,italics,NACHT,0,0,0,,Yer çekimini kesti!
+Dialogue: 9,0:18:02.48,0:18:05.86,main,JACK,0,0,0,,Bunları senin bedeninde \Ntest etsek nasıl olur!
+Dialogue: 9,0:18:08.93,0:18:13.11,main,DANTE,0,0,0,,İstediğin kadar saldırabilirsin ama \Nsenin gibi bir ölümlü beni yenemez.
+Dialogue: 9,0:18:17.07,0:18:22.05,main,JACK,0,0,0,,Böcekleri küçümseme!
+Dialogue: 9,0:18:25.38,0:18:28.07,italics,JACK,0,0,0,,En iyi bilinenler her zaman \Nen güçlü değildir.
+Dialogue: 9,0:18:28.07,0:18:31.87,italics,JACK,0,0,0,,Önünde durup her şeyi \Nöldüren kişi en güçlüdür.
+Dialogue: 9,0:18:31.87,0:18:34.38,italics,DANTE,0,0,0,,Ben yenilenemiyorum?
+Dialogue: 9,0:18:35.45,0:18:38.22,main,NACHT,0,0,0,,Seni hafife almışım \Ngibi görünüyor.
+Dialogue: 9,0:18:45.71,0:18:47.73,main,MEREOLEONA,0,0,0,,Bu kadar mısın şeytan?
+Dialogue: 9,0:18:47.73,0:18:49.95,main,ALBERT,0,0,0,,Bu büyücü inanılmaz.
+Dialogue: 9,0:18:49.95,0:18:52.57,main,ALBERT,0,0,0,,Antik şeytanı \Ntek başına yendi!
+Dialogue: 9,0:18:53.33,0:18:54.36,main,RALPH,0,0,0,,Herkes!
+Dialogue: 9,0:18:55.41,0:18:56.40,main,ALBERT,0,0,0,,Ralph!
+Dialogue: 9,0:18:56.40,0:18:57.88,main,RALPH,0,0,0,,Bölük Kumandanı Albert!
+Dialogue: 9,0:18:58.59,0:19:00.13,main,ALBERT,0,0,0,,İyi olduğuna çok sevindim!
+Dialogue: 9,0:19:00.13,0:19:02.55,main,ALBERT,0,0,0,,Nacht ile de tanışmış olmalısın.
+Dialogue: 9,0:19:02.55,0:19:03.62,main,RALPH,0,0,0,,Evet!
+Dialogue: 9,0:19:03.62,0:19:08.54,main,RALPH,0,0,0,,Usta Yuno yetenekli bir \NRüzgar büyücüsüne dönüştü.
+Dialogue: 9,0:19:09.31,0:19:11.80,main,RALPH,0,0,0,,Görünüşü Lady Ciel'in aynısı gibi.
+Dialogue: 9,0:19:11.80,0:19:15.30,main,RALPH,0,0,0,,Ve Lord Loyce gibi kudretli bir yüreği var.
+Dialogue: 9,0:19:16.47,0:19:17.62,main,ALBERT,0,0,0,,Anlıyorum.
+Dialogue: 9,0:19:18.76,0:19:20.31,italics,ALBERT,0,0,0,,Rüzgar Büyüsü.
+Dialogue: 9,0:19:20.65,0:19:24.29,italics,ALBERT,0,0,0,,Belki de Lord Yuno ve diğerleriyle.
+Dialogue: 9,0:19:39.23,0:19:40.62,main,NACHT,0,0,0,,Anladım.
+Dialogue: 9,0:19:40.62,0:19:43.29,main,NACHT,0,0,0,,Anlaşılan Krallığımızdaki\NBüyü Şövalyeleri Düşündüğümden.
+Dialogue: 9,0:19:43.29,0:19:46.37,main,NACHT,0,0,0,,Çok daha güçlülermiş.
+Dialogue: 9,0:19:47.38,0:19:51.50,italics,NACHT,0,0,0,,Cehennemin kapılarının açılmasına \Nhala çok vakit var.
+Dialogue: 9,0:19:53.59,0:19:56.38,main,DANTE,0,0,0,,Sende beni eğlendirecek misin?
+Dialogue: 9,0:19:56.90,0:20:00.59,main,JACK,0,0,0,,Kes sesini de öl artık!
+Dialogue: 9,0:20:02.83,0:20:04.10,italics,NACHT/YUNO/CHARLOTTE,0,0,0,,Bu His de ne?
+Dialogue: 9,0:20:09.30,0:20:10.48,main,RALPH,0,0,0,,Bu.
+Dialogue: 9,0:20:14.54,0:20:16.13,main,NACHT,0,0,0,,Devasa kökler!
+Dialogue: 9,0:20:16.13,0:20:17.49,main,NACHT,0,0,0,,Qliphoth!
+Dialogue: 9,0:20:18.15,0:20:19.10,main,NACHT,0,0,0,,Plumede!
+Dialogue: 9,0:20:20.83,0:20:21.85,main,NACHT,0,0,0,,Birleş.
+Dialogue: 9,0:20:26.85,0:20:28.58,main,NACHT,0,0,0,,Mod: Felis.
+Dialogue: 9,0:20:29.22,0:20:32.17,main,NACHT,0,0,0,,Gölge Büyüsü: Cennet'in\Nİkinci Gölge Görüşü.
+Dialogue: 9,0:20:36.40,0:20:38.74,italics,NACHT,0,0,0,,Yami ve Vengeance'dan\Nbaşka büyü hissediyorum!
+Dialogue: 9,0:20:38.74,0:20:41.30,italics,NACHT,0,0,0,,Qliphoth'un başlangıç bölgesinde!
+Dialogue: 9,0:20:41.84,0:20:43.50,italics,NACHT,0,0,0,,O.
+Dialogue: 9,0:20:43.50,0:20:47.48,italics,NACHT,0,0,0,,Elmas Krallığından atılan\NAkademisyen Morris?
+Dialogue: 9,0:20:51.31,0:20:56.36,main,NACHT,0,0,0,,Sanırım Vanessa'nın bencilliği \Nbazen işime yarıyor.
+Dialogue: 9,0:20:56.70,0:20:58.43,main,NACHT,0,0,0,,Kalp Krallığının bilgi hazinesini kullanarak.
+Dialogue: 9,0:20:58.43,0:21:02.42,main,NACHT,0,0,0,,Qliphoth'un büyümesini  \Nhızlandıracak bir yol buldum.
+Dialogue: 9,0:21:03.46,0:21:05.94,main,NACHT,0,0,0,,Kör olmak karşılığında.
+Dialogue: 9,0:21:05.94,0:21:09.49,main,NACHT,0,0,0,,Böyle yeteneklerle kutsanmış olmak.
+Dialogue: 9,0:21:11.58,0:21:14.45,main,NACHT,0,0,0,,Bir Şeytanın güçleri!
+Dialogue: 9,0:21:15.81,0:21:17.71,italics,NACHT,0,0,0,,Şeytanın güçleri ile.
+Dialogue: 9,0:21:17.71,0:21:22.94,italics,NACHT,0,0,0,,Loropechika'nın bilgeliğini\Nsöküp alabildim.
+Dialogue: 9,0:21:24.27,0:21:26.26,italics,NACHT,0,0,0,,Nasıl oluyor bilmiyorum ama.
+Dialogue: 9,0:21:26.26,0:21:29.54,italics,NACHT,0,0,0,,Morris Başlangıç için bir hızlandırıcı görevi görüyor.
+Dialogue: 9,0:21:31.24,0:21:33.02,italics,NACHT,0,0,0,,Cehennemin kapıları açılıyor.
+Dialogue: 9,0:21:33.02,0:21:34.11,main,NACHT,0,0,0,,Hiç iyi değil!
+Dialogue: 9,0:21:34.11,0:21:35.77,italics,NACHT,0,0,0,,Morrisi aradan çıkarmamız lazım!
+Dialogue: 9,0:21:50.83,0:21:53.11,italics,NACHT,0,0,0,,Felis Karakteri: Hız.
+Dialogue: 9,0:21:53.11,0:21:54.58,italics,NACHT,0,0,0,,O ikisi.
+Dialogue: 9,0:21:55.22,0:21:57.13,main,NAAMAH,0,0,0,,Iskaladım.
+Dialogue: 9,0:21:57.13,0:21:58.52,main,LILITH,0,0,0,,Ben vurdum.
+Dialogue: 9,0:21:58.84,0:22:01.45,main,NAAMAH,0,0,0,,Şimdi her şey eğlenceli değil mi?
+Dialogue: 9,0:22:01.45,0:22:03.68,main,LILITH,0,0,0,,Evet ne kadar da eğlenceli.
+Dialogue: 9,0:22:04.22,0:22:06.35,italics,NACHT,0,0,0,,Yüksek Konsey'in Şeytanları!
