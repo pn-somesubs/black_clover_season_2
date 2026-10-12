@@ -1,0 +1,391 @@
+[Script Info]
+Title: pn-SomeSubs - Black Clover Season 2
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.601
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: italics,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
+Style: main,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
+Style: top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,0
+Style: flashback,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: OP_ED,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,2,30,30,54,0
+Style: Default - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: italicstop,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,60,60,69,0
+Style: flashbackitalics,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
+Style: flashbacktop,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,0
+Style: flashbackitalicstop,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,60,60,69,0
+Style: Ep Title,Trebuchet MS,72,&H0065A7CE,&H000000FF,&H64070805,&H000D1728,-1,-1,0,0,100,100,0,0,1,3,0,8,90,90,225,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,42,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,3,3,2,90,90,630,1
+Style: sign_33083_276_Petit_Clover_,Verdana,90,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,9,0,8,90,90,60,1
+Style: sign_33188_278_The_Mystery_of_t,Verdana,90,&H000E42D4,&H000000FF,&H00FFFFFF,&H001900B0,-1,0,0,0,100,100,0,0,1,9,9,5,90,90,54,1
+Style: sign_138_1_Black_Clover_is_,Trebuchet MS,72,&H00FFFFFD,&H000000FF,&H3220221D,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,8,90,90,60,1
+Style: sign_1785_19_Vice_Captain_of_,Times New Roman,60,&H00FFFFFD,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,210,825,270,1
+Style: sign_5516_38_King_of_the_Clov,Times New Roman,60,&H00FFFFFD,&H000000FF,&H32343232,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,90,90,315,1
+Style: sign_6102_39_Vetto_the_Despai,Times New Roman,60,&H00FFFFFD,&H000000FF,&H32343232,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,324,1086,387,1
+Style: sign_6102_40_Fana_the_Hateful,Times New Roman,60,&H00FFFFFD,&H000000FF,&H32343232,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,1185,243,228,1
+Style: sign_6730_49_Captain_of_the_A,Times New Roman,60,&H00FFFFFD,&H000000FF,&H32343232,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,90,90,330,1
+Style: sign_7061_51_A_Team_Coral_Pea,Times New Roman,60,&H00FFFFFD,&H000000FF,&H320C0A05,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,90,90,450,1
+Style: sign_7198_131_Nean,Times New Roman,60,&H00F6F7FB,&H000000FF,&H00BCC5C7,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,8,1008,762,402,1
+Style: sign_7198_132_Common_Realm,Times New Roman,72,&H00F6F7FB,&H000000FF,&H00BCC5C7,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,8,90,1350,570,1
+Style: sign_7198_133_Kikka,Times New Roman,60,&H00F6F7FB,&H000000FF,&H00BCC5C7,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,8,795,945,780,1
+Style: sign_9194_75_Yay____Yay____,Times New Roman,72,&H00FFFFFD,&H000000FF,&H3220221D,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,8,90,90,60,1
+Style: sign_10111_106_Venue_for_the_Ro,Times New Roman,60,&H00FFFFFD,&H000000FF,&H32343232,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,90,90,345,1
+Style: sign_11720_132_Bell_,Times New Roman,90,&H00FFFFFD,&H000000FF,&H3220221D,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,705,90,210,1
+Style: sign_12339_133_Finnes_Calmreich,Times New Roman,90,&H00FFFFFD,&H000000FF,&H3220221D,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,90,90,225,1
+Style: sign_13177_157_1st_Class_Interm,Times New Roman,33,&H00FFFFFD,&H000000FF,&H322E312E,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,45,1272,240,1
+Style: sign_13177_158_4th_Class_Senior,Times New Roman,33,&H00FFFFFD,&H000000FF,&H322E312E,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,690,750,240,1
+Style: sign_13177_159_1st_Class_Interm,Times New Roman,33,&H00FFFFFD,&H000000FF,&H322E312E,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,1245,90,240,1
+Style: sign_14555_151_4_years_ago,Times New Roman,84,&H00FFFFFD,&H000000FF,&H322E312E,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,90,90,255,1
+Style: sign_15736_152_Sandler,Times New Roman,60,&H00FFFFFD,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,180,1515,615,1
+Style: sign_15736_154_Solid,Times New Roman,60,&H00FFFFFD,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,8,405,1365,675,1
+Style: sign_15736_155_O_Team,Times New Roman,72,&H00FFFFFD,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,330,1320,180,1
+Style: sign_15736_156_En___Noelle___Yu,Times New Roman,60,&H00FFFFFD,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,1185,210,615,1
+Style: sign_16031_175_The_Eye_of_the_M,Times New Roman,60,&H00FFFFFD,&H000000FF,&H32343232,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,90,90,345,1
+Style: sign_16031_176_Sally,Times New Roman,78,&H00FFFFFD,&H000000FF,&H32343232,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,90,1050,225,1
+Style: sign_16031_177_Rades,Times New Roman,78,&H00FFFFFD,&H000000FF,&H32343232,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,1005,90,225,1
+Style: sign_17323_210_Also_got_in_thro,Times New Roman,72,&H000B0B0B,&H000000FF,&H00FFFFFF,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,9,477,468,60,1
+Style: sign_18699_183_Luck_s_High_Mana,Times New Roman,78,&H00F1F1F1,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,0,0,2,90,90,60,1
+Style: sign_18752_184_High_Mana_Detect,Times New Roman,90,&H00F1F1F1,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,7,585,90,390,1
+Style: sign_19376_197_Fate_Manipulatio,Times New Roman,48,&H00F1F1F1,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,8,0,402,60,1
+Style: sign_19376_198_Fate_Manipulatio,Times New Roman,90,&H00F1F1F1,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,7,363,0,60,1
+Style: sign_19376_197_F_a_t_e___M_a_n_,Times New Roman,57,&H00F1F1F1,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,8,1476,390,60,1
+Style: sign_19376_201_A_b_s_o_l_u_t_e_,Times New Roman,57,&H00F1F1F1,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,8,300,1431,54,1
+Style: sign_21447_269_Mage_Attendant_t,Times New Roman,48,&H00FFFFFD,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,90,930,285,1
+Style: sign_21447_270_1st_Class_Interm,Times New Roman,48,&H00FFFFFD,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,1065,90,285,1
+Style: sign_22029_222_Wimpy,Arial,90,&H00171816,&H000000FF,&H00EEEDED,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,7,120,90,120,1
+Style: sign_22078_223_Carefree,Arial,90,&H00171816,&H000000FF,&H00EEEDED,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,6,120,90,60,1
+Style: sign_24182_226_Member_of_the_Pu,Times New Roman,60,&H00FFFFFD,&H000000FF,&H320C0A05,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,90,90,345,1
+Style: sign_25640_274_Group_1_En_Ringa,Times New Roman,72,&H00FFFFFD,&H000000FF,&H320C0A05,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,120,90,375,1
+Style: sign_32950_385_Halt_,Times New Roman,90,&H00332E32,&H000000FF,&H00DADEE2,&H00000000,-1,0,0,0,100,100,0,0,1,9,0,8,1080,90,60,1
+Style: sign_33089_334_Bulls,Verdana,90,&H0007A0E4,&H000000FF,&H32213F6F,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,6,90,90,60,1
+Style: sign_33137_335_Hello__we_re_Gor,Trebuchet MS,72,&H00FFFFFD,&H000000FF,&H3220221D,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,8,90,90,60,1
+Style: sign_33018_294_Sa,Verdana,90,&H00161622,&H000000FF,&H32213F6F,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,0,0,2,135,90,825,1
+Style: sign_33018_295_Rii,Verdana,90,&H00161622,&H000000FF,&H32213F6F,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,0,0,1,1440,90,390,1
+Style: sign_33090_345_Part_1_,Verdana,90,&H00161622,&H000000FF,&H32213F6F,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,0,0,2,786,786,825,1
+Style: sign_33126_298_Shi,Verdana,90,&H00161622,&H000000FF,&H32213F6F,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,0,0,2,90,90,825,1
+Style: sign_33126_299_Rii,Verdana,90,&H00161622,&H000000FF,&H32213F6F,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,0,0,1,1395,90,390,1
+Style: sign_33236_349_Luck,Trebuchet MS,90,&H00000100,&H000000FF,&H32EDEFEF,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,2,90,90,345,1
+Style: sign_33248_350_Ahaha_,Verdana,90,&H00161622,&H000000FF,&H32EDEFEF,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,9,90,90,60,1
+Style: sign_33332_352_Rucksack,Verdana,90,&H00161622,&H000000FF,&H32EDEFEF,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,7,90,90,60,1
+Style: sign_33427_257_Weaken__Naeru_,Trebuchet MS,90,&H00000100,&H000000FF,&H32EDEFEF,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,9,0,8,90,90,60,1
+Style: sign_32992_374_gLaMoUr_WoRlD,Verdana,90,&H00A787ED,&H000000FF,&H001A1E4B,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,252,1212,750,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.38,0:00:06.65,italics,NARRATOR,0,0,0,,Bir yoncanın dördüncü \Nyaprağında iyi şans bulunur.
+Dialogue: 0,0:00:07.78,0:00:09.59,italics,NARRATOR,0,0,0,,Beşincide ise...
+Dialogue: 0,0:00:09.59,0:00:11.40,italics,NARRATOR,0,0,0,,bir şeytan.
+Dialogue: 0,0:00:13.47,0:00:15.08,italics,NARRATOR,0,0,0,,Yonca Krallığı.
+Dialogue: 0,0:00:15.43,0:00:17.42,italics,NARRATOR,0,0,0,,Büyünün herşey olduğu bu krallıkta,
+Dialogue: 0,0:00:17.42,0:00:19.32,italics,NARRATOR,0,0,0,,büyü yapamayan bir çocuk var.
+Dialogue: 0,0:00:19.32,0:00:20.45,italics,NARRATOR,0,0,0,,Adı Asta.
+Dialogue: 0,0:00:20.45,0:00:25.37,italics,NARRATOR,0,0,0,,Büyücü Kral olabilmek adına \Nkan, ter ve gözyaşı döküyor.
+Dialogue: 0,0:00:25.74,0:00:31.61,italics,NARRATOR,0,0,0,,Bir gün, Asta tüm büyüleri etkisiz hale\Ngetiren Anti-Büyü gücünü kazandı.
+Dialogue: 0,0:00:32.19,0:00:36.17,italics,NARRATOR,0,0,0,,O sırada, Maça Krallığının yöneticileri\NKaranlık Üçlü.
+Dialogue: 0,0:00:36.17,0:00:39.11,italics,NARRATOR,0,0,0,,yer altındaki iblislerin \Ngüçlerine sahipti,
+Dialogue: 0,0:00:39.11,0:00:41.93,italics,NARRATOR,0,0,0,,başka krallıkları işgal ettiler.
+Dialogue: 0,0:00:42.35,0:00:44.69,italics,NARRATOR,0,0,0,,Amansız bir savaş sonrası, \NAsta ve arkadaşları,
+Dialogue: 0,0:00:44.69,0:00:47.52,italics,NARRATOR,0,0,0,,Karanlık üçlü üyesi, Danteyi yendiler,
+Dialogue: 0,0:00:47.52,0:00:50.84,italics,NARRATOR,0,0,0,,fakat ardından Büyücü Şövalye Birliği, \NKaptan Yami ve Vengeance,
+Dialogue: 0,0:00:50.84,0:00:53.57,italics,NARRATOR,0,0,0,,Kraliçe Loropechika ile beraber, \Nkaçırıldı.
+Dialogue: 0,0:00:53.93,0:00:55.61,italics,NARRATOR,0,0,0,,onları geri almak için,
+Dialogue: 0,0:00:55.61,0:00:58.85,italics,NARRATOR,0,0,0,,Asta iblisin gerçek\Ngüçlerini almaya çalışıyor.
+Dialogue: 0,0:00:59.61,0:01:03.86,italics,NARRATOR,0,0,0,,Yonca Krallığının karşı saldırısı \Nbaşlamak üzere.
+Dialogue: 0,0:01:13.40,0:01:16.80,sign_6730_49_Captain_of_the_A,sign,0,0,0,,{\fad(700,0)\pos(969,885)\blur9\fs90}MAÇA KRALLIĞI
+Dialogue: 0,0:01:53.23,0:01:56.47,main,ZENON,0,0,0,,Kardeşim iyi durumda olsa iyi olur...
+Dialogue: 0,0:01:58.02,0:01:59.39,main,ZENON,0,0,0,,Morris.
+Dialogue: 0,0:02:00.51,0:02:05.57,main,MORRIS,0,0,0,,Elmas Krallığının büyü çalışmalarında \Nkilit rol oynadım.
+Dialogue: 0,0:02:06.44,0:02:09.48,main,MORRIS,0,0,0,,Onu şipşak iyileştireceğim.
+Dialogue: 0,0:02:09.83,0:02:12.74,main,MORRIS,0,0,0,,Öncesinden daha güçlü olacak.
+Dialogue: 0,0:02:13.22,0:02:14.82,main,MORRIS,0,0,0,,Başlangıç ritüeli için gerekli büyü
+Dialogue: 0,0:02:14.82,0:02:17.99,main,MORRIS,0,0,0,,yarattığım Candeloda \Ntoplanıyor.
+Dialogue: 0,0:02:17.99,0:02:20.74,main,MORRIS,0,0,0,,keşke bana biraz daha güvensen.
+Dialogue: 0,0:02:20.74,0:02:24.25,main,MORRIS,0,0,0,,Hain Mars yüzünden \NKrallıktan kovulmuştum,
+Dialogue: 0,0:02:24.50,0:02:27.08,main,MORRIS,0,0,0,,fakat kendimi çok daha \Nilginç bi yerde buldum.
+Dialogue: 0,0:02:27.08,0:02:29.75,main,MORRIS,0,0,0,,hepinize minnettarım.
+Dialogue: 0,0:02:34.47,0:02:39.40,main,DANTE,0,0,0,,Ah... O ucube ile tekrar \Ndövüşmeye can atıyorum.
+Dialogue: 0,0:02:40.09,0:02:42.52,main,ZENON,0,0,0,,Diğer hazırlıklarda sorun yok değil mi?
+Dialogue: 0,0:02:42.52,0:02:44.54,main,ZENON,0,0,0,,Her şey yolunda.
+Dialogue: 0,0:02:44.54,0:02:46.79,main,ZENON,0,0,0,,Değil mi, Lotus?
+Dialogue: 0,0:02:46.79,0:02:47.81,main,LOTUS,0,0,0,,Evet.
+Dialogue: 0,0:02:48.41,0:02:52.94,italics,LOTUS/I,0,0,0,,İşler baya karışmış gibi...
+Dialogue: 0,0:02:55.15,0:02:57.40,sign_6730_49_Captain_of_the_A,sign,0,0,0,,{\pos(969,885)\blur9\fs90}YONCA KALESİ
+Dialogue: 0,0:03:00.14,0:03:05.53,main,JULIUS,0,0,0,,Bu dünyayı cehenneme bağlayan, \N Qliphoth ağacı...
+Dialogue: 0,0:03:05.86,0:03:10.17,main,JULIUS,0,0,0,,Yapabilmek için, \NYami ve Vengeance'a ihtiyaçları var.
+Dialogue: 0,0:03:10.17,0:03:13.53,flashback,NACHT,0,0,0,,Cehennemin kapıları üç gün \Niçinde açılacak.
+Dialogue: 0,0:03:14.48,0:03:17.34,flashback,NACHT,0,0,0,,Buna fırsat vermeden \NYami ve Vengeance'ı alacağız.
+Dialogue: 0,0:03:17.34,0:03:19.68,flashback,NACHT,0,0,0,,Ve Qliphoth ağacını yok edeceğiz.
+Dialogue: 0,0:03:20.30,0:03:22.60,flashback,NACHT,0,0,0,,Bu sefer saldıranlar biz olacağız.
+Dialogue: 0,0:03:23.64,0:03:27.61,main,JULIUS,0,0,0,,Büyücü kral olmama rağmen...\NBöyle anlarda işe yaramazım.
+Dialogue: 0,0:03:33.55,0:03:35.44,flashback,NACHT,0,0,0,,Sen doğru olanı yaptın.
+Dialogue: 0,0:03:35.76,0:03:39.45,flashback,NACHT,0,0,0,,Ama bu iyi insanların sürekli  \Nödüllendirileceği anlamına gelmiyor.
+Dialogue: 0,0:03:40.70,0:03:42.28,main,GIMODELO,0,0,0,,Sıra bizde!
+Dialogue: 0,0:03:43.21,0:03:44.95,flashback,NACHT,0,0,0,,Haksız kötülüklere yenilmemek için,
+Dialogue: 0,0:03:46.49,0:03:49.96,flashback,NACHT,0,0,0,,Dahada güçlenmelisin.
+Dialogue: 0,0:03:59.13,0:04:01.72,main,NACHT,0,0,0,,Şeytan birleşim modu: Canis.
+Dialogue: 0,0:04:03.22,0:04:07.23,main,NACHT,0,0,0,,Şimdi senin sözde \N"eğitimine" başlıyoruz.
+Dialogue: 0,0:04:07.75,0:04:09.16,main,NACHT,0,0,0,,ikiniz birden...
+Dialogue: 0,0:04:10.35,0:04:13.26,main,NACHT,0,0,0,,deneyin bakalım.
+Dialogue: 0,0:05:38.54,0:05:43.99,Ep Title,sign,0,0,0,,{\c&HFFFEFF&\pos(954,291)}SAVAŞ BAŞLAR
+Dialogue: 0,0:05:48.97,0:05:51.64,main,NACHT,0,0,0,,Asta, daha da güçlenmenin tek yolu
+Dialogue: 0,0:05:51.64,0:05:56.95,main,NACHT,0,0,0,,Şeytanla birleşip Anti-Büyü'nün \N%100'ünü kullanmak.
+Dialogue: 0,0:06:00.08,0:06:00.96,main,ASTA,0,0,0,,Bir kuyruk mu?
+Dialogue: 0,0:06:11.30,0:06:13.85,main,ASTA,0,0,0,,Ha, Liebe kayboldu?
+Dialogue: 0,0:06:13.85,0:06:15.27,main,SMALL LIEBE,0,0,0,,Hey, burdayım.
+Dialogue: 0,0:06:16.10,0:06:17.98,main,ASTA,0,0,0,,Küçüldü!
+Dialogue: 0,0:06:17.98,0:06:21.60,main,SMALL LIEBE,0,0,0,,görünüşe göre tüm gücümü sana \Nverdiğimde böyle oluyor.
+Dialogue: 0,0:06:21.84,0:06:23.85,main,NACHT,0,0,0,,Şeytan anlaşmalarında,
+Dialogue: 0,0:06:23.85,0:06:26.90,main,NACHT,0,0,0,,kontrol, emirleri veren \Nkişinin elindedir
+Dialogue: 0,0:06:26.90,0:06:29.15,main,NACHT,0,0,0,,Kısacası insanın.
+Dialogue: 0,0:06:29.54,0:06:33.12,main,NACHT,0,0,0,,Bu sayede kolayca birleşebiliyoruz.
+Dialogue: 0,0:06:33.12,0:06:35.73,main,NACHT,0,0,0,,Şu anki halin birleşmek değil.
+Dialogue: 0,0:06:35.73,0:06:38.62,main,NACHT,0,0,0,,Sadece şeytanın gücü \Nsana doğru akıyor.
+Dialogue: 0,0:06:39.22,0:06:41.75,main,ASTA,0,0,0,,Sen de buna benzer bir şey söylemiştin Liebe!
+Dialogue: 0,0:06:41.75,0:06:44.72,main,ASTA,0,0,0,,Nasıl tüm gücünü kullanacağım?
+Dialogue: 0,0:06:44.72,0:06:45.77,main,SMALL LIEBE,0,0,0,,Bilmem.
+Dialogue: 0,0:06:45.77,0:06:46.55,main,ASTA,0,0,0,,Nee?!
+Dialogue: 0,0:06:47.14,0:06:51.24,main,SMALL LIEBE,0,0,0,,Senin vücudunu ele geçirip\Ndövüşmeye çalıştım.
+Dialogue: 0,0:06:51.24,0:06:53.91,main,SMALL LIEBE,0,0,0,,İlk defa dışarıda dövüşüyorum.
+Dialogue: 0,0:06:53.91,0:06:56.31,main,SMALL LIEBE,0,0,0,,Senin gibi birine bu yüzden yenildim.
+Dialogue: 0,0:06:56.84,0:07:00.83,main,ASTA,0,0,0,,Senin bi bok bildiğin yok! \NBirde ulu ve yüce olacak!
+Dialogue: 0,0:07:00.83,0:07:03.75,main,SMALL LIEBE,0,0,0,,Benimle bu saçma anlaşmayı \Nyapan sensin!
+Dialogue: 0,0:07:03.75,0:07:04.93,main,SMALL LIEBE,0,0,0,,Bunuda sen çöz!
+Dialogue: 0,0:07:04.93,0:07:07.02,main,ASTA,0,0,0,,BENİMDE ZERRE FİKRİM YOK!
+Dialogue: 0,0:07:07.30,0:07:08.53,main,NACHT,0,0,0,,Bariz şekilde...
+Dialogue: 0,0:07:08.86,0:07:11.55,main,NACHT,0,0,0,,Bunu savaşırken öğrenmen gerekecek.
+Dialogue: 0,0:07:13.44,0:07:15.39,main,NACHT,0,0,0,,Birleştiğim zaman,
+Dialogue: 0,0:07:15.39,0:07:18.83,main,NACHT,0,0,0,,Şeytanlarımın özelliklerini \Ngölge büyüme ekleyebiliyorum.
+Dialogue: 0,0:07:19.35,0:07:21.47,main,NACHT,0,0,0,,Gimoledo'nun özelliklerinden birisi ise,
+Dialogue: 0,0:07:22.82,0:07:23.93,main,NACHT,0,0,0,,Sürü.
+Dialogue: 0,0:07:33.68,0:07:37.79,italics,ASTA,0,0,0,,Bu iki elemanda Baş Kaptan Nacht\Nile aynı Ki'ye sahip.
+Dialogue: 0,0:07:39.26,0:07:43.00,main,NACHT,0,0,0,,Gölgeler beni yenene kadar \Nyok olmayacak.
+Dialogue: 0,0:07:44.68,0:07:48.40,italics,ASTA,0,0,0,,Onlarla tamamen karıştı.\NNerde olduğunu anlayamıyorum!
+Dialogue: 0,0:07:49.36,0:07:53.78,italics,ASTA,0,0,0,,Bu Baş Kaptan Nacht \Ndört iblis ile anlaşma mı yapmış demek?!
+Dialogue: 0,0:07:53.78,0:07:56.82,italics,ASTA,0,0,0,,Ölümle o kadar çok mu\Nburun buruna gelmiş?!
+Dialogue: 0,0:07:56.82,0:07:58.74,italics,ASTA,0,0,0,,Artık Liebe ve bende bir \Nanlaşma yaptığımıza göre
+Dialogue: 0,0:07:58.74,0:08:01.62,italics,ASTA,0,0,0,,Bağımız öncesinden bile\Ngüçlü olmalı!
+Dialogue: 0,0:08:01.62,0:08:04.62,italics,ASTA,0,0,0,,Gücünün daha fazlasını\Nkullanabilmeliyim!
+Dialogue: 0,0:08:04.62,0:08:07.67,main,NACHT,0,0,0,,Şeytanla olan anlaşmanı \Neşit şartlarda yaptın
+Dialogue: 0,0:08:07.67,0:08:13.73,main,NACHT,0,0,0,,Senin hizmetçin olmadığından, \Ngücünü kolayca kullanamazsın.
+Dialogue: 0,0:08:14.09,0:08:16.84,main,NACHT,0,0,0,,Bu yolu seçen sendin.
+Dialogue: 0,0:08:18.49,0:08:21.72,main,NACHT,0,0,0,,O güçle beni yenmeyi dene.
+Dialogue: 0,0:08:25.80,0:08:26.48,main,ASTA,0,0,0,,Evet, efendim...
+Dialogue: 0,0:08:30.89,0:08:33.82,main,ASTA,0,0,0,,Burada, şu anda, \Nsınırlarımı aşacağım!.
+Dialogue: 0,0:08:42.18,0:08:43.33,main,ASTA,0,0,0,,Şeytan Kesen.
+Dialogue: 0,0:08:44.25,0:08:47.84,main,ASTA,0,0,0,,Senin adın Şeytan Kesen!
+Dialogue: 0,0:08:48.60,0:08:50.94,main,ASTA,0,0,0,,Gidip Kaptan Yami'yi beraber kurtaralım!
+Dialogue: 0,0:08:50.94,0:08:53.63,main,ASTA,0,0,0,,Limitlerimizi aşarak, \NBurada ve şu anda!
+Dialogue: 0,0:08:54.99,0:08:57.38,main,ASTA,0,0,0,,Şu replikden nefret ediyorum.
+Dialogue: 0,0:09:03.16,0:09:07.48,main,YUNO,0,0,0,,Eğitimim boyunca yardımlarınız\Niçin teşekkür ederim
+Dialogue: 0,0:09:07.48,0:09:09.45,main,YUNO,0,0,0,,Eski Baş Kaptan Langris.
+Dialogue: 0,0:09:09.45,0:09:11.15,main,LANGRIS,0,0,0,,"Eski" demene gerek yoktu.
+Dialogue: 0,0:09:11.68,0:09:14.65,main,LANGRIS,0,0,0,,Anladım, her zamanki gibi kabasın.
+Dialogue: 0,0:09:15.05,0:09:16.88,main,YUNO,0,0,0,,senin kadar değil,
+Dialogue: 0,0:09:16.88,0:09:20.78,main,LANGRIS,0,0,0,,Bu arada, senin şu \NBoşboğaz ruhun nerede?
+Dialogue: 0,0:09:21.07,0:09:24.54,main,YUNO,0,0,0,,Bell şuan büyü kitabından\Nçıkmıyor.
+Dialogue: 0,0:09:24.97,0:09:27.26,main,LANGRIS,0,0,0,,Ugh. Çok sinir bozucu.
+Dialogue: 0,0:09:31.12,0:09:35.13,main,LANGRIS,0,0,0,,Bunları Ruh'un gücü olmadan\Nyapabilmen.
+Dialogue: 0,0:09:44.28,0:09:46.56,main,NACHT,0,0,0,,Yine kaybettiniz.
+Dialogue: 0,0:09:46.82,0:09:50.34,italics,ASTA,0,0,0,,Baş Kaptan Nacht çok güçlü...
+Dialogue: 0,0:09:50.34,0:09:53.14,italics,ASTA,0,0,0,,ne kadar meydan okursam okuyayım \Nkazanmak imkansız görünüyor.
+Dialogue: 0,0:09:53.14,0:09:56.25,italics,ASTA,0,0,0,,Daha kötüsü... \NO ciddi bile değil.
+Dialogue: 0,0:09:56.25,0:09:59.57,italics,ASTA,0,0,0,,Demek birleşmenin gücü bu...
+Dialogue: 0,0:09:59.95,0:10:03.32,italics,ASTA,0,0,0,,Neden Liebe ve ben aynısını yapamıyoruz?
+Dialogue: 0,0:10:03.32,0:10:07.58,italics,ASTA,0,0,0,,Siyah formumda hasar aldığımda \NLiebeninde hissetmesine rağmen.
+Dialogue: 0,0:10:14.09,0:10:15.84,main,ASTA,0,0,0,,BU SÜPER!
+Dialogue: 0,0:10:15.84,0:10:18.75,main,ASTA,0,0,0,,Tüm yaralarım ve enerjim iyileşiyor!
+Dialogue: 0,0:10:18.75,0:10:22.49,main,ASTA,0,0,0,,Maça Krallığı'nın Dayanıklılık Büyüsü \Nkurabiyelerini yapanın adı neydi?
+Dialogue: 0,0:10:22.49,0:10:24.60,main,ASTA,0,0,0,,Onu gördüğümde teşekkür edeceğim!
+Dialogue: 0,0:10:25.11,0:10:27.64,main,ASTA,0,0,0,,Oh! Tatlı şeyler yemek\Naklıma bir fikir getirdi.
+Dialogue: 0,0:10:27.64,0:10:29.10,main,ASTA,0,0,0,,Bi' dakika benimle gel, Liebe!
+Dialogue: 0,0:10:29.87,0:10:33.17,italics,LIEBE,0,0,0,,Böyle dediğinde, \N%10 ihtimalle,
+Dialogue: 0,0:10:33.17,0:10:35.73,italics,LIEBE,0,0,0,,söylediği şey dahice oluyor...
+Dialogue: 0,0:10:38.36,0:10:40.81,main,LIEBE,0,0,0,,BİRLEŞ!
+Dialogue: 0,0:10:41.15,0:10:44.07,italics,LIEBE,0,0,0,,fakat bu diğer \N%90'a dahil.
+Dialogue: 0,0:10:44.07,0:10:47.20,main,LIEBE,0,0,0,,Boş yaparak kaybedecek zamanımız \Nyok! %90 Salak!
+Dialogue: 0,0:10:47.20,0:10:49.02,main,ASTA,0,0,0,,Salak değilim!
+Dialogue: 0,0:10:49.02,0:10:52.71,main,ASTA,0,0,0,,Böyle dövüşürsek, bedenlerimiz ve  \Nruhumuz dahada yakınlaşacak!
+Dialogue: 0,0:10:53.45,0:10:56.85,flashback,NACHT,0,0,0,,Böyle uslu çocuk \Nayaklarından yorulmuyor musun?
+Dialogue: 0,0:10:57.60,0:11:00.63,flashback,MORGEN,0,0,0,,Bu kadar {\i1}özgür{\i0}  \Nolmakdan yorulmuyor musun abi?
+Dialogue: 0,0:11:00.63,0:11:05.14,flashback,NACHT,0,0,0,,Seni salak, \Nözgür olmanın neresi yorucu?
+Dialogue: 0,0:11:05.14,0:11:08.55,main,LIEBE,0,0,0,,Eğer böyle birleşirsek ortada \Nproblem kalmaz! Seni %90 Salak!
+Dialogue: 0,0:11:08.55,0:11:11.21,main,ASTA,0,0,0,,Ne diyorsun sen ya! Zaten üstümdesin!\NŞikayet etmeyi bırak!
+Dialogue: 0,0:11:11.21,0:11:13.40,main,NACHT,0,0,0,,Diğerleriyle buluşma vakti geldi.
+Dialogue: 0,0:11:13.40,0:11:18.40,main,ASTA,0,0,0,,Ha? Çoktan iki gün mü geçmiş?! \NFark etmedim bile, hay sıçayım
+Dialogue: 0,0:11:18.40,0:11:20.08,main,NACHT,0,0,0,,Sanırım başka şans kalmadı.
+Dialogue: 0,0:11:23.35,0:11:26.59,main,NACHT,0,0,0,,işe yaramayacaksa, \Nşuracıkda öl.
+Dialogue: 0,0:11:28.62,0:11:29.95,main,ASTA,0,0,0,,Liebe!
+Dialogue: 0,0:11:29.95,0:11:32.96,main,NACHT,0,0,0,,Mana Zone: Dark Prison Hunting Ground.
+Dialogue: 0,0:11:37.96,0:11:39.46,italics,ASTA,0,0,0,,Zifiri karanlık...
+Dialogue: 0,0:11:42.28,0:11:43.47,italics,ASTA,0,0,0,,Bu şey...
+Dialogue: 0,0:11:45.93,0:11:51.31,italics,ASTA,0,0,0,,Ki'si... Hiçbir şey hissedemiyorum. \NBu saldırılardan kaçınmam imkansız!
+Dialogue: 0,0:11:52.20,0:11:55.19,main,NACHT,0,0,0,,Potansiyelin büyüktü. Yazık oldu.
+Dialogue: 0,0:11:55.47,0:11:58.94,italics,ASTA,0,0,0,,Hiçbir şey hissedemediğim zifiri karanlıkdan \Nüstüme çöken ölüm...
+Dialogue: 0,0:11:58.94,0:12:01.94,italics,ASTA,0,0,0,,Bu gerçek korku!
+Dialogue: 0,0:12:07.94,0:12:09.47,italics,ASTA,0,0,0,,Sikeyim!
+Dialogue: 0,0:12:09.47,0:12:12.04,italics,ASTA,0,0,0,,Biz bu kadar odaklanmışken \Nniye çalışmıyor?
+Dialogue: 0,0:12:12.52,0:12:17.04,italics,LIEBE,0,0,0,,Asta ve ben aynı hissetmeliyiz, \Ndaha çok güç!
+Dialogue: 0,0:12:17.72,0:12:22.67,italics,ASTA/LIEBE,0,0,0,,Kaptan Yami'yi kurtarmak için
+Dialogue: 0,0:12:22.96,0:12:25.93,italics,ASTA,0,0,0,,Kaptan Yami'yi kurtarmak için
+Dialogue: 0,0:12:26.44,0:12:29.73,italics,LIEBE,0,0,0,,Licita'nın intikamını almak için
+Dialogue: 0,0:12:31.10,0:12:33.65,italics,ASTA/LIEBE,0,0,0,,Ölemem!
+Dialogue: 0,0:12:33.65,0:12:34.98,italics,ASTA/LIEBE,0,0,0,,ve...
+Dialogue: 0,0:12:34.98,0:12:37.97,italics,ASTA/LIEBE,0,0,0,,Onunda ölmesine izin veremem!
+Dialogue: 0,0:13:11.05,0:13:14.31,italics,NACHT,0,0,0,,Bana bilerek doğrudan vurmadı.
+Dialogue: 0,0:13:14.54,0:13:18.56,italics,NACHT,0,0,0,,Dokunmadı bile, fakat kolumdaki\Nbirleşme gitti.
+Dialogue: 0,0:13:18.56,0:13:23.57,italics,NACHT,0,0,0,,Üstüne fiziksel yapısı olmayan büyümü \NMana bölgesi ile beraber sildi.
+Dialogue: 0,0:13:23.86,0:13:25.38,italics,NACHT,0,0,0,,Anti-Büyü...
+Dialogue: 0,0:13:25.38,0:13:28.03,italics,NACHT,0,0,0,,Tüm gücünü kullanırsa...
+Dialogue: 0,0:13:30.38,0:13:31.98,italics,NACHT,0,0,0,,en güçlüsü.
+Dialogue: 0,0:13:31.98,0:13:33.54,main,NACHT,0,0,0,,kaybettim.
+Dialogue: 0,0:13:33.92,0:13:36.75,main,ASTA,0,0,0,,Sonunda be! hadi gidelim artık.
+Dialogue: 0,0:13:36.99,0:13:37.85,main,NACHT,0,0,0,,Hayır.
+Dialogue: 0,0:13:37.85,0:13:41.63,main,ASTA,0,0,0,,A-Ama neden?! Liebe ve ben\NŞeytan birleşmesini başardık.
+Dialogue: 0,0:13:41.63,0:13:46.86,main,NACHT,0,0,0,,Saliselik bir birleşim. \NDaha uzmanlaşmadın.
+Dialogue: 0,0:13:47.51,0:13:51.06,main,NACHT,0,0,0,,Bunu kendinde bilmelisin, yanlış mıyım?
+Dialogue: 0,0:13:52.31,0:13:56.02,italics,LIEBE,0,0,0,,O haklı. Ama bayağı ilerledik!
+Dialogue: 0,0:13:56.02,0:13:58.55,main,NACHT,0,0,0,,Bu halde düşman \Ntopraklarına gidersen
+Dialogue: 0,0:13:58.55,0:14:01.03,main,NACHT,0,0,0,,Sonunda ölürsün.
+Dialogue: 0,0:14:01.03,0:14:01.90,main,ASTA,0,0,0,,Ama b-
+Dialogue: 0,0:14:01.90,0:14:04.15,main,NACHT,0,0,0,,Gölge büyümü kullanarak...
+Dialogue: 0,0:14:04.15,0:14:06.62,main,NACHT,0,0,0,,Seni ve diğer Kara Öküzleri izliyordum.
+Dialogue: 0,0:14:06.62,0:14:07.65,main,ASTA,0,0,0,,Ne?
+Dialogue: 0,0:14:07.94,0:14:12.56,main,NACHT,0,0,0,,Büyüsüz doğdun,\Nkaza eseri bir şeytanla anlaştın,
+Dialogue: 0,0:14:12.56,0:14:15.16,main,NACHT,0,0,0,,ve berbat bir kaderin vardı.
+Dialogue: 0,0:14:15.59,0:14:16.91,main,NACHT,0,0,0,,Fakat...
+Dialogue: 0,0:14:18.94,0:14:21.18,main,NACHT,0,0,0,,Her zaman haklıydın.
+Dialogue: 0,0:14:22.62,0:14:27.06,main,NACHT,0,0,0,,"Bu haklı insanlar her zaman ödüllendirilecektir \Ndiye bir şey yok." Dedim.
+Dialogue: 0,0:14:27.06,0:14:28.34,main,NACHT,0,0,0,,Ama...
+Dialogue: 0,0:14:28.74,0:14:32.34,main,NACHT,0,0,0,,Haklı olanların ödüllendirilmesini {\i1}istiyorum{\i0}
+Dialogue: 0,0:14:33.08,0:14:34.64,main,ASTA,0,0,0,,Baş Kaptan Nacht...
+Dialogue: 0,0:14:37.85,0:14:39.31,main,NACHT,0,0,0,,Gimodelo'yu burada bırakacağım.
+Dialogue: 0,0:14:39.54,0:14:41.59,main,GIMODELO,0,0,0,,Ne?! Uh...
+Dialogue: 0,0:14:41.59,0:14:44.56,main,NACHT,0,0,0,,Sen bize katılabilecek hale gelene \Nkadar herşeyi yapacağız
+Dialogue: 0,0:14:45.50,0:14:47.52,main,NACHT,0,0,0,,Kendini geliştirebildiğin\Nkadar geliştir.
+Dialogue: 0,0:14:48.95,0:14:50.33,main,NACHT,0,0,0,,Sonra gel bize katıl.
+Dialogue: 0,0:14:51.76,0:14:52.78,main,ASTA,0,0,0,,Evet, efendim!
+Dialogue: 0,0:14:53.45,0:14:56.70,main,GIMODELO,0,0,0,,o bana vurursa öleceğim.
+Dialogue: 0,0:14:56.70,0:14:59.07,main,GIMODELO,0,0,0,,Bay Nacht bir Ork!
+Dialogue: 0,0:15:00.80,0:15:03.88,main,ASTA/LIEBE,0,0,0,,Seninle çalışmak bir zevktir, Gimodelo!
+Dialogue: 0,0:15:04.23,0:15:08.27,italics,GIMODELO,0,0,0,,B-B-Beni kesin öldürecekler!
+Dialogue: 0,0:15:35.05,0:15:37.60,main,YUNO,0,0,0,,Tamamdır, gidelim.
+Dialogue: 0,0:15:38.95,0:15:41.88,main,NACHT,0,0,0,,Görünüşe göre hepiniz buradasınız.\NHazır mısınız?
+Dialogue: 0,0:15:42.31,0:15:43.80,top,FUEGOLEON,0,0,0,,Asta nerede?
+Dialogue: 0,0:15:41.88,0:15:43.80,sign_6730_49_Captain_of_the_A,sign,0,0,0,,{\blur9\pos(1461,603)\fs30}Kızıl Aslanlar Kaptanı.\N{\fs75}Fuegoleon Vermillion
+Dialogue: 0,0:15:43.80,0:15:46.38,sign_6730_49_Captain_of_the_A,sign,0,0,0,,{\blur9\pos(459,603)\fs30}Okyanus Geyiği Kaptanı.\N{\fs75}Rill Boismortier
+Dialogue: 0,0:15:44.12,0:15:46.38,top,NACHT,0,0,0,,Biraz daha gelişmesi lazım.
+Dialogue: 0,0:15:46.38,0:15:50.18,sign_6730_49_Captain_of_the_A,sign,0,0,0,,{\blur9\pos(474,840)\fs30}Yeşil Peygamber Devesi Kaptanı.\N{\fs75}Jack the Ripper
+Dialogue: 0,0:15:46.38,0:15:50.18,sign_6730_49_Captain_of_the_A,sign,0,0,0,,{\blur9\pos(1473,393)\fs30}Yeşil Peygamber Develeri.\N{\fs75}Sekke Bronzazza
+Dialogue: 0,0:15:47.13,0:15:50.18,top,JACK,0,0,0,,Ona güvendiğimden falan değil he!
+Dialogue: 0,0:15:50.18,0:15:52.93,sign_6730_49_Captain_of_the_A,sign,0,0,0,,{\blur9\fs30\pos(534,786)}Mavi Gül Şövalyeleri Kaptanı\N{\fs75}Charlotte Roselei
+Dialogue: 0,0:15:50.18,0:15:52.93,top,SALLY,0,0,0,,Aa, Asta gelmiyor mu?
+Dialogue: 0,0:15:52.93,0:15:58.02,top,SALLY,0,0,0,,Neyse ne, büyük ihtimalle yakında\Nçok eğlenceli şeyler göreceğiz.
+Dialogue: 0,0:15:52.93,0:15:58.02,sign_6730_49_Captain_of_the_A,sign,0,0,0,,{\fs75\blue3\pos(891,759)}Sally
+Dialogue: 0,0:15:52.93,0:15:58.02,sign_6730_49_Captain_of_the_A,sign,0,0,0,,{\fs75\blue3\pos(345,894)}Valtos
+Dialogue: 0,0:15:52.93,0:15:58.02,sign_6730_49_Captain_of_the_A,sign,0,0,0,,{\fs75\blue3\pos(1485,894)}Rades Spirito
+Dialogue: 0,0:15:58.02,0:16:00.44,top,SALLY,0,0,0,,Belki Asta'nın vicudunda yaptığım araştırmalarda ürettiğim
+Dialogue: 0,0:15:58.02,0:16:00.44,sign_6730_49_Captain_of_the_A,sign,0,0,0,,{\blur9\pos(525,597)\fs30}Mercan Tavus Kuşları Kaptanı\N{\fs75}Dorothy Unsworth
+Dialogue: 0,0:16:00.44,0:16:03.36,top,SALLY,0,0,0,,büyülü eşyaları kullanırım.
+Dialogue: 0,0:16:00.44,0:16:03.36,sign_6730_49_Captain_of_the_A,sign,0,0,0,,{\blur9\pos(1389,597)\fs30}Altın Şafak\N{\fs75}Langris Vaude
+Dialogue: 0,0:16:03.62,0:16:07.65,top,NOZEL,0,0,0,,Duyduğuma göre cübbeleri {\i1}o{\i0} yapmış,\Ngerçekten güvenliler mi?
+Dialogue: 0,0:16:03.36,0:16:07.65,sign_6730_49_Captain_of_the_A,sign,0,0,0,,{\blur9\fs30\pos(1434,720)}Gümüş Kartallar Kaptanı\N{\fs75}Nozel Silva
+Dialogue: 0,0:16:07.96,0:16:13.10,main,MAKUSA,0,0,0,,Sally biraz garip ama\Nbüyülü item araştırmalarında en iyisi.
+Dialogue: 0,0:16:07.65,0:16:12.16,sign_6730_49_Captain_of_the_A,sign,0,0,0,,{\fs75\blur9\pos(474,333)}Makusa North
+Dialogue: 0,0:16:12.16,0:16:14.41,sign_6730_49_Captain_of_the_A,sign,0,0,0,,{\fs75\blur9\pos(1506,819)}Ralph Niaflem
+Dialogue: 0,0:16:13.10,0:16:14.41,top,MAKUSA,0,0,0,,Endişelenme.
+Dialogue: 0,0:16:14.41,0:16:18.25,main,RADES,0,0,0,,Makusa! Sırf büyülü eşyalardan \Nbahsedildi diye burnunu sokma.
+Dialogue: 0,0:16:18.25,0:16:20.47,main,MAKUSA,0,0,0,,Oh, bak Rades!
+Dialogue: 0,0:16:20.47,0:16:24.38,main,MAKUSA,0,0,0,,İnanamayacaksın! Bu cübbeler \NBüyüyü saklama özelliğine sahip!
+Dialogue: 0,0:16:24.38,0:16:27.59,main,MAKUSA,0,0,0,,Sally'nin dediği gibi, Asta'nın \NAnti-Büyüsünü araştırdıkdan sonra,
+Dialogue: 0,0:16:27.59,0:16:29.91,main,MAKUSA,0,0,0,,Bu şahane şeyi yapabildik...
+Dialogue: 0,0:16:29.91,0:16:29.91,main,MAKUSA,0,0,0,,Büyü çok garip.
+Dialogue: 0,0:16:28.80,0:16:30.99,top,RADES,0,0,0,,KES ARTIK!
+Dialogue: 0,0:16:29.91,0:16:30.99,main,VALTOS,0,0,0,,Aman be.
+Dialogue: 0,0:16:30.99,0:16:33.14,italics,SEKKE,0,0,0,,N-n... N-ne
+Dialogue: 0,0:16:33.61,0:16:37.01,italics,SEKKE,0,0,0,,Niye bu manyak şeytani \Noperasyona katılmak zorundayım?
+Dialogue: 0,0:16:37.01,0:16:39.77,italics,SEKKE,0,0,0,,Böyle deliler ile!
+Dialogue: 0,0:16:40.42,0:16:43.42,italics,SEKKE,0,0,0,,Altı ayımı doya doya geçirdim, ama...
+Dialogue: 0,0:16:43.42,0:16:44.48,flashback,SEKKE,0,0,0,,Bah-ha!
+Dialogue: 0,0:16:44.92,0:16:51.29,flashback,KING,0,0,0,,Sekke! O kaptanlara \Nnasıl biri olduğunu göster!
+Dialogue: 0,0:16:51.29,0:16:52.48,flashback,SEKKE,0,0,0,,Bah-ha!
+Dialogue: 0,0:16:52.48,0:16:56.79,italics,SEKKE,0,0,0,,Kimse bana doğrudan cehennemin \Ndibine gideceğimizi söylemedi!
+Dialogue: 0,0:16:57.04,0:17:02.75,main,JACK,0,0,0,,Niye burada olduğunu bilmiyorum ama,\Nelinden gelenin en iyisini yapsan iyi olur.
+Dialogue: 0,0:17:04.88,0:17:07.71,main,NACHT,0,0,0,,İyilik için kendini feda et.
+Dialogue: 0,0:17:07.71,0:17:09.30,main,SEKKE,0,0,0,,Ne?!
+Dialogue: 0,0:17:09.55,0:17:11.75,main,NOZEL,0,0,0,,Asta vaktinde burada olabilecekmi?
+Dialogue: 0,0:17:11.75,0:17:13.17,main,YUNO,0,0,0,,Evet.
+Dialogue: 0,0:17:13.80,0:17:17.56,sign_6730_49_Captain_of_the_A,sign,0,0,0,,{\blur9\pos(411,807)\fs30}Altın Şafak Baş Kaptanı\N{\fs75}Yuno
+Dialogue: 0,0:17:14.10,0:17:17.56,top,YUNO,0,0,0,,O gelmeden herşeyi\Nhallederim diye düşünmüştüm.
+Dialogue: 0,0:17:18.72,0:17:20.56,main,JACK,0,0,0,,O ben olacağım!
+Dialogue: 0,0:17:20.87,0:17:22.56,main,NOZEL,0,0,0,,İkinizde değil.
+Dialogue: 0,0:17:22.56,0:17:25.13,main,NACHT,0,0,0,,Gölge Büyüsü: Gölge Koridoru.
+Dialogue: 0,0:17:30.32,0:17:31.62,main,NACHT,0,0,0,,Biz olacağız.
+Dialogue: 0,0:17:37.87,0:17:38.95,main,MORRIS,0,0,0,,Oh?
+Dialogue: 0,0:17:39.18,0:17:41.12,main,MORRIS,0,0,0,,Görünüşe göre geldiler.
+Dialogue: 0,0:17:41.69,0:17:43.18,main,MORRIS,0,0,0,,Direniş!
+Dialogue: 0,0:17:44.86,0:17:48.30,main,ALBERT,0,0,0,,Kulak ver Karanlık Üçlü!
+Dialogue: 0,0:17:48.30,0:17:51.84,main,ALBERT,0,0,0,,On yedi yıl önce, kralımız  \NKral Loyce'u öldürdünüz!
+Dialogue: 0,0:17:51.84,0:17:53.80,main,ALBERT,0,0,0,,Ve bir sürü yoldaşımızı!
+Dialogue: 0,0:17:54.01,0:17:58.31,main,ALBERT,0,0,0,,Ondan beri vatandaşlarımıza karşı \Nkorkunç suçlar işlediniz!
+Dialogue: 0,0:17:58.51,0:18:01.09,main,ALBERT,0,0,0,,Bedelini ödeyeceksiniz!
+Dialogue: 0,0:18:02.01,0:18:06.97,italics,ALBERT,0,0,0,,Seninle ölümüne dövüşürsek\Nkaybedeceğimizi biliyoruz.
+Dialogue: 0,0:18:06.97,0:18:08.59,italics,ALBERT,0,0,0,,Fakat yine de...
+Dialogue: 0,0:18:09.67,0:18:18.08,main,ALBERT,0,0,0,,Biz, Maça Krallığının vatandaşları,\NSeni kralımız olarak kabul etmeyeceğiz!
+Dialogue: 0,0:18:20.83,0:18:23.21,main,NACHT,0,0,0,,Öyle olsun, hepiniz, plana sadık kalın.
+Dialogue: 0,0:18:25.68,0:18:29.16,flashback,RALPH,0,0,0,,Yani siz Maça Krallığında\Ngizli görevdesiniz?
+Dialogue: 0,0:18:29.16,0:18:33.01,flashback,RALPH,0,0,0,,Ve Krallığı terk ettiğimden beri \Ndirenişle iletişim halindesiniz?
+Dialogue: 0,0:18:33.01,0:18:37.86,flashback,NACHT,0,0,0,,Evet. Direnişle o kadar içli dışlı\Nolmak istemedim.
+Dialogue: 0,0:18:37.86,0:18:42.77,flashback,NACHT,0,0,0,,Ama yeteneklerini gördükden sonra, \Nyardım etsem daha iyi olur diye düşündüm.
+Dialogue: 0,0:18:43.23,0:18:48.78,flashback,NACHT,0,0,0,,Toplantıda azmini gördüm. \NBilmemiş gibi davrandığım için kusra bakma.
+Dialogue: 0,0:18:48.78,0:18:50.26,flashback,YUNO,0,0,0,,Ciddi olamazsın.
+Dialogue: 0,0:18:51.08,0:18:55.63,italics,ALBERT,0,0,0,,Yalvarırım Efendi Nacht! \NYonca Krallığının en güçlü büyücüleri!
+Dialogue: 0,0:18:55.63,0:18:57.70,italics,ALBERT,0,0,0,,Ve... Lord Yuno!
+Dialogue: 0,0:18:58.16,0:19:02.20,italics,ALBERT,0,0,0,,Ölecekte olsak sizin için\Ndikkat dağıtabiliriz
+Dialogue: 0,0:19:07.61,0:19:09.90,main,ALBERT,0,0,0,,Bu sallantıda niye?!
+Dialogue: 0,0:19:20.24,0:19:21.43,main,ALBERT,0,0,0,,Bu...
+Dialogue: 0,0:19:21.43,0:19:24.27,main,ALBERT,0,0,0,,Efsanevi kadim şeytan?!
+Dialogue: 0,0:19:25.11,0:19:27.92,main,ZENON,0,0,0,,Ezici bir güçle karşı karşıya kaldığında,
+Dialogue: 0,0:19:27.92,0:19:31.52,main,ZENON,0,0,0,,Duygular ve çabalar anlamsız hale gelir.
+Dialogue: 0,0:19:32.14,0:19:34.78,main,ZENON,0,0,0,,Madem bir fare içeri sızmayı başardı,
+Dialogue: 0,0:19:35.31,0:19:38.28,main,ZENON,0,0,0,,Qliphoth Başlangıç ritüeline karşı
+Dialogue: 0,0:19:38.28,0:19:41.03,main,ZENON,0,0,0,,Bir şeyler deneyeceklerini düşündüm.
+Dialogue: 0,0:19:41.36,0:19:44.75,main,ZENON,0,0,0,,Fakat böyle doğrudan  \Nüstümüze geleceklerini değil.
+Dialogue: 0,0:19:45.29,0:19:47.87,main,ZENON,0,0,0,,O şeytanı köydeki tüm insanları öldürmek için
+Dialogue: 0,0:19:47.87,0:19:50.88,main,ZENON,0,0,0,,Kullanacaktık.
+Dialogue: 0,0:19:52.75,0:19:55.88,main,ZENON,0,0,0,,Siz Maça Krallığından değilsiniz.
+Dialogue: 0,0:19:56.32,0:20:00.55,main,ZENON,0,0,0,,Sadece biz güçlüler \Nbu krallıkdanız.
+Dialogue: 0,0:20:00.55,0:20:04.08,main,ZENON,0,0,0,,Qliphoth ritüeli başlasın.
+Dialogue: 0,0:20:07.82,0:20:09.17,main,FUEGOLEON,0,0,0,,Bu ses...
+Dialogue: 0,0:20:09.17,0:20:11.09,main,FUEGOLEON,0,0,0,,Aşırı yoğun bir mana!
+Dialogue: 0,0:20:11.09,0:20:13.15,main,FUEGOLEON,0,0,0,,Dışarıdakiler iyi mi?!
+Dialogue: 0,0:20:13.34,0:20:14.65,main,NACHT,0,0,0,,İyiler, sorun yok.
+Dialogue: 0,0:20:34.07,0:20:36.76,main,MEREOLEONA,0,0,0,,Dostum! Baya iyi gürledi!
+Dialogue: 0,0:20:37.01,0:20:42.34,main,MEREOLEONA,0,0,0,,Ben, Mereoleona Vermillion, Yonca Krallığı'nın \NSoylusu, size yardım edeceğim!
+Dialogue: 0,0:20:45.66,0:20:50.53,flashback,NACHT,0,0,0,,Başlangıç Ritüeli dört bölümden güç alan\Ndev bir dairedir.
+Dialogue: 0,0:20:51.19,0:20:54.69,flashback,NACHT,0,0,0,,Birincisi merkezde Qliphoth'un \Nolduğu başlangıç noktasıdır.
+Dialogue: 0,0:20:55.12,0:20:59.53,flashback,NACHT,0,0,0,,Kalan üçü ise Ritüeli başlatacak\Nolan Karanlık Üçlünün olduğu yerlerdir.
+Dialogue: 0,0:21:00.52,0:21:03.14,flashback,NACHT,0,0,0,,Üçlünün üçünü de \Nyeneceğiz
+Dialogue: 0,0:21:03.14,0:21:05.33,flashback,NACHT,0,0,0,,Ve ritüeli yapılamaz hale getireceğiz.
+Dialogue: 0,0:21:05.50,0:21:08.42,flashback,NACHT,0,0,0,,Qliphoth'un Başlangıcı \Ndurdurulacak.
+Dialogue: 0,0:21:08.42,0:21:10.33,flashback,NACHT,0,0,0,,Ve kapının açılmasını engelleyeceğiz.
+Dialogue: 0,0:21:10.59,0:21:14.54,flashback,NACHT,0,0,0,,Diğer plan ise Anti-Büyü kullanıp  \Ndoğrudan Qliphoth'un kendisini yok edeceğiz.
+Dialogue: 0,0:21:14.54,0:21:16.86,flashback,NACHT,0,0,0,,Ama bunun garantisi yok.
+Dialogue: 0,0:21:17.55,0:21:21.51,flashback,NACHT,0,0,0,,Ve eğer onu yok ettğimizde \NYami veya Vengeance ölürse,
+Dialogue: 0,0:21:21.51,0:21:23.34,flashback,NACHT,0,0,0,,Beni asla affetmezsiniz, değil mi?
+Dialogue: 0,0:21:24.02,0:21:27.16,flashback,NACHT,0,0,0,,Üçlü, Büyülü Dairenin üç ayrı kısmında.
+Dialogue: 0,0:21:27.66,0:21:31.60,flashback,NACHT,0,0,0,,Bu yüzden gruplara ayırlacağız,\Nüçlüye aynı anda saldıracağız ve işi bitireceğiz.
+Dialogue: 0,0:21:32.42,0:21:34.61,flashback,NACHT,0,0,0,,Kalenin dışında \Ndikkat dağıtsalar bile,
+Dialogue: 0,0:21:34.61,0:21:37.69,flashback,NACHT,0,0,0,,yüksek ihtimal bazı\Nöğrencilere rastlayacaksınız.
+Dialogue: 0,0:21:37.69,0:21:39.24,main,DARK DISCIPLE 1,0,0,0,,İşgalciler!
+Dialogue: 0,0:21:39.24,0:21:43.45,flashback,NACHT,0,0,0,,Eğer bu olursa, biriniz \Ndikkat dağıtmak için deli gibi saldırsın.
+Dialogue: 0,0:21:48.00,0:21:49.70,flashback,NACHT,0,0,0,,Üçlüyü indirmek için
+Dialogue: 0,0:21:49.97,0:21:53.44,flashback,NACHT,0,0,0,,ne kadar adamımız varsa \Ngöndereceğiz.
+Dialogue: 0,0:22:08.11,0:22:10.86,main,ALL,0,0,0,,Sonunuz geldi, Karanlık Üçlü!
