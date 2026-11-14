@@ -1,0 +1,352 @@
+[Script Info]
+Title: pn-SomeSubs - Black Clover Season 2
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: italics,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,90,90,0,0,1,1.3,0,2,20,20,20,0
+Style: main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,90,90,0,0,1,1.3,0,2,20,20,20,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Trebuchet MS,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,90,90,0,0,1,1.3,0,2,20,20,20,1
+Style: flashback italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,90,90,0,0,1,1.3,0,2,20,20,20,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_Arial,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ArialBlack,Arial Black,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_CourierNew,Courier New,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ComicSansMS,Comic Sans MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Georgia,Georgia,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Impact,Impact,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TimesNewRoman,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TrebuchetMS,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Verdana,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashbackitalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Ep Title,Trebuchet MS,24,&H0065A7CE,&H000000FF,&H64070805,&H000D1728,-1,-1,0,0,100,100,0,0,1,1,0,8,30,30,75,1
+Style: sign_34238_338_Page_2_The_Boys_,Trebuchet MS,14,&H00FFFFF8,&H000000FF,&H002D2F36,&H000D1728,0,0,0,0,100,100,0,0,1,1,1,2,30,30,210,1
+Style: sign_33083_276_Petit_Clover_,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,20,1
+Style: sign_33188_278_The_Mystery_of_t,Verdana,30,&H000E42D4,&H000000FF,&H00FFFFFF,&H001900B0,-1,0,0,0,100,100,0,0,1,3,3,5,30,30,18,1
+Style: sign_138_1_Black_Clover_is_,Trebuchet MS,24,&H00FFFFFD,&H000000FF,&H3220221D,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,20,1
+Style: sign_1785_19_Vice_Captain_of_,Times New Roman,20,&H00FFFFFD,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,70,275,90,1
+Style: sign_5516_38_King_of_the_Clov,Times New Roman,20,&H00FFFFFD,&H000000FF,&H32343232,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,105,1
+Style: sign_6102_39_Vetto_the_Despai,Times New Roman,20,&H00FFFFFD,&H000000FF,&H32343232,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,108,362,129,1
+Style: sign_6102_40_Fana_the_Hateful,Times New Roman,20,&H00FFFFFD,&H000000FF,&H32343232,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,395,81,76,1
+Style: sign_6730_49_Captain_of_the_A,Times New Roman,20,&H00FFFFFD,&H000000FF,&H32343232,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,110,1
+Style: sign_7061_51_A_Team_Coral_Pea,Times New Roman,20,&H00FFFFFD,&H000000FF,&H320C0A05,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,150,1
+Style: sign_7198_131_Nean,Times New Roman,20,&H00F6F7FB,&H000000FF,&H00BCC5C7,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,8,336,254,134,1
+Style: sign_7198_132_Common_Realm,Times New Roman,24,&H00F6F7FB,&H000000FF,&H00BCC5C7,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,8,30,450,190,1
+Style: sign_7198_133_Kikka,Times New Roman,20,&H00F6F7FB,&H000000FF,&H00BCC5C7,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,8,265,315,260,1
+Style: sign_9194_75_Yay____Yay____,Times New Roman,24,&H00FFFFFD,&H000000FF,&H3220221D,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,20,1
+Style: sign_10111_106_Venue_for_the_Ro,Times New Roman,20,&H00FFFFFD,&H000000FF,&H32343232,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,115,1
+Style: sign_11720_132_Bell_,Times New Roman,30,&H00FFFFFD,&H000000FF,&H3220221D,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,235,30,70,1
+Style: sign_12339_133_Finnes_Calmreich,Times New Roman,30,&H00FFFFFD,&H000000FF,&H3220221D,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,75,1
+Style: sign_13177_157_1st_Class_Interm,Times New Roman,11,&H00FFFFFD,&H000000FF,&H322E312E,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,15,424,80,1
+Style: sign_13177_158_4th_Class_Senior,Times New Roman,11,&H00FFFFFD,&H000000FF,&H322E312E,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,230,250,80,1
+Style: sign_13177_159_1st_Class_Interm,Times New Roman,11,&H00FFFFFD,&H000000FF,&H322E312E,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,415,30,80,1
+Style: sign_14555_151_4_years_ago,Times New Roman,28,&H00FFFFFD,&H000000FF,&H322E312E,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,85,1
+Style: sign_15736_152_Sandler,Times New Roman,20,&H00FFFFFD,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,60,505,205,1
+Style: sign_15736_154_Solid,Times New Roman,20,&H00FFFFFD,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,8,135,455,225,1
+Style: sign_15736_155_O_Team,Times New Roman,24,&H00FFFFFD,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,110,440,60,1
+Style: sign_15736_156_En___Noelle___Yu,Times New Roman,20,&H00FFFFFD,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,395,70,205,1
+Style: sign_16031_175_The_Eye_of_the_M,Times New Roman,20,&H00FFFFFD,&H000000FF,&H32343232,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,115,1
+Style: sign_16031_176_Sally,Times New Roman,26,&H00FFFFFD,&H000000FF,&H32343232,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,30,350,75,1
+Style: sign_16031_177_Rades,Times New Roman,26,&H00FFFFFD,&H000000FF,&H32343232,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,335,30,75,1
+Style: sign_17323_210_Also_got_in_thro,Times New Roman,24,&H000B0B0B,&H000000FF,&H00FFFFFF,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,9,159,156,20,1
+Style: sign_18699_183_Luck_s_High_Mana,Times New Roman,26,&H00F1F1F1,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,1
+Style: sign_18752_184_High_Mana_Detect,Times New Roman,30,&H00F1F1F1,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,7,195,30,130,1
+Style: sign_19376_197_Fate_Manipulatio,Times New Roman,16,&H00F1F1F1,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,8,0,134,20,1
+Style: sign_19376_198_Fate_Manipulatio,Times New Roman,30,&H00F1F1F1,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,7,121,0,20,1
+Style: sign_19376_197_F_a_t_e___M_a_n_,Times New Roman,19,&H00F1F1F1,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,8,492,130,20,1
+Style: sign_19376_201_A_b_s_o_l_u_t_e_,Times New Roman,19,&H00F1F1F1,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,8,100,477,18,1
+Style: sign_21447_269_Mage_Attendant_t,Times New Roman,16,&H00FFFFFD,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,30,310,95,1
+Style: sign_21447_270_1st_Class_Interm,Times New Roman,16,&H00FFFFFD,&H000000FF,&H32292119,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,355,30,95,1
+Style: sign_22029_222_Wimpy,Arial,30,&H00171816,&H000000FF,&H00EEEDED,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,7,40,30,40,1
+Style: sign_22078_223_Carefree,Arial,30,&H00171816,&H000000FF,&H00EEEDED,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,6,40,30,20,1
+Style: sign_24182_226_Member_of_the_Pu,Times New Roman,20,&H00FFFFFD,&H000000FF,&H320C0A05,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,115,1
+Style: sign_25640_274_Group_1_En_Ringa,Times New Roman,24,&H00FFFFFD,&H000000FF,&H320C0A05,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,40,30,125,1
+Style: sign_32950_385_Halt_,Times New Roman,30,&H00332E32,&H000000FF,&H00DADEE2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,360,30,20,1
+Style: sign_33089_334_Bulls,Verdana,30,&H0007A0E4,&H000000FF,&H32213F6F,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,6,30,30,20,1
+Style: sign_33137_335_Hello__we_re_Gor,Trebuchet MS,24,&H00FFFFFD,&H000000FF,&H3220221D,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,20,1
+Style: sign_33018_294_Sa,Verdana,30,&H00161622,&H000000FF,&H32213F6F,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,0,0,2,45,30,275,1
+Style: sign_33018_295_Rii,Verdana,30,&H00161622,&H000000FF,&H32213F6F,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,0,0,1,480,30,130,1
+Style: sign_33090_345_Part_1_,Verdana,30,&H00161622,&H000000FF,&H32213F6F,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,0,0,2,262,262,275,1
+Style: sign_33126_298_Shi,Verdana,30,&H00161622,&H000000FF,&H32213F6F,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,275,1
+Style: sign_33126_299_Rii,Verdana,30,&H00161622,&H000000FF,&H32213F6F,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,0,0,1,465,30,130,1
+Style: sign_33236_349_Luck,Trebuchet MS,30,&H00000100,&H000000FF,&H32EDEFEF,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,2,30,30,115,1
+Style: sign_33248_350_Ahaha_,Verdana,30,&H00161622,&H000000FF,&H32EDEFEF,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,9,30,30,20,1
+Style: sign_33332_352_Rucksack,Verdana,30,&H00161622,&H000000FF,&H32EDEFEF,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,7,30,30,20,1
+Style: sign_33427_257_Weaken__Naeru_,Trebuchet MS,30,&H00000100,&H000000FF,&H32EDEFEF,&H00E9EAEE,-1,0,0,0,100,100,0,0,1,3,0,8,30,30,20,1
+Style: sign_32992_374_gLaMoUr_WoRlD,Verdana,30,&H00A787ED,&H000000FF,&H001A1E4B,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,84,404,250,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,Default,,0,0,0,,{\fs17\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} ibrahimhilmiykr\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Myoupie\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 0,0:00:15.00,0:00:18.25,flashback,YOUNG NOZEL (FB),0,0,0,,Anne!
+Dialogue: 0,0:01:48.56,0:01:53.97,Ep Title,EP TITLE,0,0,0,,{\c&HF7F8FF&}Azmin Ötesinde
+Dialogue: 0,0:01:57.50,0:01:59.97,main,MEGICULA,0,0,0,,Azizler Sahnesi bittiğine göre,
+Dialogue: 0,0:02:00.27,0:02:02.98,main,MEGICULA,0,0,0,,beni yenmenin bir yolu yok.
+Dialogue: 0,0:02:03.19,0:02:09.48,main,MEGICULA,0,0,0,,Bir Azizler Sahnesi daha kullansan bile,\Nbana ulaşamayacak.
+Dialogue: 0,0:02:09.78,0:02:14.49,main,MEGICULA,0,0,0,,Bu bölgenin tamamı benim\NDünya Çürüten Büyümle kaplı
+Dialogue: 0,0:02:15.17,0:02:17.58,main,MEGICULA,0,0,0,,yani seni kurtarmaya kimse gelmeyecek.
+Dialogue: 0,0:02:17.58,0:02:20.24,main,MEGICULA,0,0,0,,Gelseler bile hiçbir şey \Nyapamayacaklar.
+Dialogue: 0,0:02:20.72,0:02:23.00,main,MEGICULA,0,0,0,,Bunlar pes etmek için \Nyeterli sebepler, değil mi?
+Dialogue: 0,0:02:23.41,0:02:25.85,main,MEGICULA,0,0,0,,Olsun. Baya eğlenceliydi, değil mi insan?
+Dialogue: 0,0:02:32.31,0:02:33.21,italics,NOELLE (INT),0,0,0,,Gaja?!
+Dialogue: 0,0:02:36.46,0:02:37.28,main,UNDINE,0,0,0,,Gaja.
+Dialogue: 0,0:02:40.81,0:02:45.69,main,GAJA,0,0,0,,Pek umurumda değil ama lütfen\Nmazur görün Kraliçe Loropechika.
+Dialogue: 0,0:02:46.18,0:02:48.98,italics,GAJA (INT),0,0,0,,Yıldırım Büyüsü: Pulsaranta.
+Dialogue: 0,0:02:54.60,0:02:57.16,italics,GAJA (INT),0,0,0,,Bu onun hareketini birkaç saniyeliğine\Ndurduracak.
+Dialogue: 0,0:03:01.43,0:03:02.91,italics,GAJA (INT),0,0,0,,O gün...
+Dialogue: 0,0:03:03.67,0:03:08.23,italics,GAJA (INT),0,0,0,,Düşmanlarımızı yenip krallığımızı\Nkoruyacağıma yemin etmiştim
+Dialogue: 0,0:03:09.16,0:03:10.84,italics,GAJA (INT),0,0,0,,buna rağmen, altı ay önce...
+Dialogue: 0,0:03:11.65,0:03:16.42,italics,GAJA (INT),0,0,0,,Megicula ve Vanica'nın saldırılarını \Ndurduramadım ve lanetlendiniz.
+Dialogue: 0,0:03:17.63,0:03:21.85,flashback,GAJA (FB),0,0,0,,Çok özür dilerim! Ben Ruh Gardiyanları'nın \Nyüz karasıyım!
+Dialogue: 0,0:03:21.85,0:03:25.10,flashback,LOROPECHIKA (FB),0,0,0,,Hayır, hayır! Hâlâ hayattayım.
+Dialogue: 0,0:03:25.47,0:03:28.10,flashback,LOROPECHIKA (FB),0,0,0,,Sen olmasan oracıkta ölmüştüm.
+Dialogue: 0,0:03:28.34,0:03:33.61,flashback,LOROPECHIKA (FB),0,0,0,,Üstelik sivillerden kimse yaralanmadı,\Nbu yeter de artar bile.
+Dialogue: 0,0:03:33.96,0:03:35.61,flashback,LOROPECHIKA (FB),0,0,0,,Hepsi senin sayende, Gaja!
+Dialogue: 0,0:03:38.01,0:03:43.73,italics,GAJA (INT),0,0,0,,Sivilleri, krallığı, her şeyi \Nkorumaya çalıştığım için
+Dialogue: 0,0:03:43.73,0:03:45.64,italics,GAJA (INT),0,0,0,,bu hâle geldin.
+Dialogue: 0,0:03:46.71,0:03:49.37,italics,GAJA (INT),0,0,0,,Yapmak istemediğin tek şeyi\Nyapmaya zorlandın.
+Dialogue: 0,0:03:50.49,0:03:54.55,italics,GAJA (INT),0,0,0,,Gerçekten de Ruh Gardiyanları'nın\N yüz karasıyım.
+Dialogue: 0,0:03:55.15,0:03:58.80,italics,GAJA (INT),0,0,0,,Krallıktan ziyade...\Nseni korumak istemiştim.
+Dialogue: 0,0:03:59.71,0:04:01.53,italics,GAJA (INT),0,0,0,,Seni öldürmelerine izin vermeyeceğim.
+Dialogue: 0,0:04:01.97,0:04:03.79,italics,GAJA (INT),0,0,0,,Öldürmene de izin vermeyeceğim.
+Dialogue: 0,0:04:04.38,0:04:08.39,italics,GAJA (INT),0,0,0,,Bana yaptığın hiçbir saldırıya \Nyenik düşmeyeceğim.
+Dialogue: 0,0:04:08.93,0:04:13.82,italics,GAJA (INT),0,0,0,,Tüm varlığımı büyüye dönüştürecek\Nve bu kötülüğü yok edeceğim!
+Dialogue: 0,0:04:13.82,0:04:15.07,italics,GAJA (INT),0,0,0,,Burada ve şu anda...
+Dialogue: 0,0:04:15.76,0:04:18.46,italics,GAJA (INT),0,0,0,,Bu sefer eminim, seni kurtaracağım!
+Dialogue: 0,0:04:19.05,0:04:25.19,italics,GAJA (INT),0,0,0,,Mutlak Yıldırım Büyüsü: \NApocalypra Astrauza!
+Dialogue: 0,0:04:29.57,0:04:32.62,italics,MEGICULA (INT),0,0,0,,Çürüyen Dünya herşeyi sileme—
+Dialogue: 0,0:04:47.25,0:04:48.67,italics,NOELLE (INT),0,0,0,,Son bir saldırı daha!
+Dialogue: 0,0:04:49.15,0:04:50.71,italics,NOELLE (INT),0,0,0,,Zayıfsa da umurumda değil!
+Dialogue: 0,0:04:50.71,0:04:55.49,italics,NOELLE (INT),0,0,0,,Açıktaki kalbini deşmek için yeterli\NAzizler Sahnesi gücüm olsa yeter!
+Dialogue: 0,0:04:58.19,0:05:00.90,main,MEGICULA,0,0,0,,Bu kullananın ömrünü yakan bir büyü he?
+Dialogue: 0,0:05:04.30,0:05:06.54,main,MEGICULA,0,0,0,,Beklediğimden çok daha güçlü çıktı.
+Dialogue: 0,0:05:07.70,0:05:11.16,main,MEGICULA,0,0,0,,Bu büyüleyiciydi, insan.
+Dialogue: 0,0:05:11.81,0:05:13.08,main,MEGICULA,0,0,0,,Ne yazık ki,
+Dialogue: 0,0:05:13.08,0:05:18.16,main,MEGICULA,0,0,0,,vücudum çok hızlı bir\Nyenilenme büyüsü ile korunuyor.
+Dialogue: 0,0:05:18.55,0:05:19.61,main,UNDINE,0,0,0,,Gaja!
+Dialogue: 0,0:05:23.30,0:05:24.47,main,NOELLE,0,0,0,,Undine!
+Dialogue: 0,0:05:25.30,0:05:27.67,main,MEGICULA,0,0,0,,Bu önceki savaşımız ile aynı.
+Dialogue: 0,0:05:28.76,0:05:32.32,main,MEGICULA,0,0,0,,Şimdi Azizler Sahnesi güçlerini \Nbiraz bile kullanamıyorsun.
+Dialogue: 0,0:05:32.66,0:05:34.73,main,MEGICULA,0,0,0,,Bu sefer... Gerçekten de bitti.
+Dialogue: 0,0:05:42.45,0:05:43.49,main,NOELLE,0,0,0,,Daha değil!
+Dialogue: 0,0:05:50.74,0:05:51.66,main,MEGICULA,0,0,0,,Daha değil mi?
+Dialogue: 0,0:05:52.64,0:05:55.39,main,MEGICULA,0,0,0,,Bariz şekilde kazanman imkansız.
+Dialogue: 0,0:05:55.75,0:05:57.98,main,MEGICULA,0,0,0,,Bu zorlama niye?
+Dialogue: 0,0:05:57.98,0:06:03.13,main,MEGICULA,0,0,0,,Bu insanların sınırlarını aşıp \Nyeni büyüler oluşturmalarının sebebi mi?
+Dialogue: 0,0:06:04.13,0:06:06.90,main,MEGICULA,0,0,0,,Beni Çürüyen Dünya içerisinde yenebilecek
+Dialogue: 0,0:06:06.90,0:06:10.95,main,MEGICULA,0,0,0,,bir büyü oluşturabilecek bir insan yok ki?
+Dialogue: 0,0:06:11.30,0:06:15.41,main,MEGICULA,0,0,0,,Şeytanlar kendinden yükseklere itaatsizlik\Netmeye cürret etmezler
+Dialogue: 0,0:06:15.41,0:06:17.05,main,MEGICULA,0,0,0,,çünkü gereksiz bir çabadır.
+Dialogue: 0,0:06:17.05,0:06:18.89,main,MEGICULA,0,0,0,,Fakat siz insanlar...
+Dialogue: 0,0:06:18.89,0:06:23.52,main,MEGICULA,0,0,0,,saçma ideallere tutunup uğruna\Ncanınızı feda ediyorsunuz.
+Dialogue: 0,0:06:24.41,0:06:28.41,main,MEGICULA,0,0,0,,Acier Silva kendini bir silah gibi kullanıp\Nçocukları için savaştı.
+Dialogue: 0,0:06:28.41,0:06:29.89,main,MEGICULA,0,0,0,,O adam ise
+Dialogue: 0,0:06:29.89,0:06:33.41,main,MEGICULA,0,0,0,,sadıklık yemini ettiği kraliçe \Nuğruna savaştı.
+Dialogue: 0,0:06:33.86,0:06:38.17,main,MEGICULA,0,0,0,,Sen ise gerçek bile olmayan bir umut ile
+Dialogue: 0,0:06:38.17,0:06:40.19,main,MEGICULA,0,0,0,,çok önemsiz bir şey uğruna savaşıyorsun.
+Dialogue: 0,0:06:40.19,0:06:44.34,main,MEGICULA,0,0,0,,Pes etmek varken ne diye böyle\Nşeylere bağlanıyorsun?
+Dialogue: 0,0:06:47.71,0:06:52.63,italics,NOELLE (INT),0,0,0,,Kazanmamın bir yolu yok mu?\Nbunun ben de farkındayım.
+Dialogue: 0,0:06:55.46,0:06:59.28,main,NOELLE,0,0,0,,Haklısın ama... O benim bileceğim bir iş,
+Dialogue: 0,0:06:59.28,0:07:01.94,main,NOELLE,0,0,0,,Senin anlayıp anlamaman\Nzerre umurumda değil.
+Dialogue: 0,0:07:03.22,0:07:06.93,italics,NOELLE (INT),0,0,0,,Bu şeytanın nesi var be?\NDelirmiş resmen.
+Dialogue: 0,0:07:09.27,0:07:13.50,main,NOELLE,0,0,0,,Anlıyor musun? Kazanma şansımız\Ndüşük olsa bile,
+Dialogue: 0,0:07:13.50,0:07:15.85,main,NOELLE,0,0,0,,bir şey yapmamız gerekiyorsa yaparız!
+Dialogue: 0,0:07:16.66,0:07:20.71,italics,NOELLE (INT),0,0,0,,Dürüst olmak gerekirse, şu anda \Ndizlerime çöküp ağlamak istiyorum...
+Dialogue: 0,0:07:21.28,0:07:23.89,main,NOELLE,0,0,0,,Pes etmezsek kazanırız diye\Nbir kaide yok
+Dialogue: 0,0:07:24.34,0:07:27.56,main,NOELLE,0,0,0,,ama pes edersek kazanma ihtimalini\Nyok saymış oluruz!
+Dialogue: 0,0:07:27.87,0:07:30.06,italics,NOELLE (INT),0,0,0,,Buna rağmen...
+Dialogue: 0,0:07:30.51,0:07:33.93,main,NOELLE,0,0,0,,İçimizdeki güç pes etmez!
+Dialogue: 0,0:07:35.63,0:07:36.57,main,MEGICULA,0,0,0,,Hmm.
+Dialogue: 0,0:07:37.31,0:07:39.64,main,MEGICULA,0,0,0,,Yine anlamadım pek.
+Dialogue: 0,0:07:39.64,0:07:44.65,main,MEGICULA,0,0,0,,Baya iyiymiş... Ama daha fazla \Nvakit kaybetmek istemiyorum.
+Dialogue: 0,0:07:47.80,0:07:52.41,main,MEGICULA,0,0,0,,Lanet Önleyici Büyü: Patlayan Hayat.
+Dialogue: 0,0:07:54.15,0:07:59.46,main,MEGICULA,0,0,0,,Loropechika'yı patlatıp bu kaledeki\Ntüm insanları öldüreceğim.
+Dialogue: 0,0:07:59.95,0:08:02.13,main,MEGICULA,0,0,0,,Sonra...
+Dialogue: 0,0:08:02.13,0:08:04.89,main,MEGICULA,0,0,0,,Burada varlığım sürecek.
+Dialogue: 0,0:08:13.44,0:08:17.59,main,NOELLE,0,0,0,,Loropechika!
+Dialogue: 0,0:08:31.17,0:08:32.87,main,ASTA,0,0,0,,Dostum, kıl payı!
+Dialogue: 0,0:08:34.15,0:08:35.54,main,ASTA,0,0,0,,Kıl payı kurtuldum!
+Dialogue: 0,0:08:36.32,0:08:37.54,italics,NOELLE (INT),0,0,0,,Doğru...
+Dialogue: 0,0:08:37.54,0:08:40.73,main,ASTA,0,0,0,,Yine sorunsuz buluşabildik, \Ndeğil mi Noelle?
+Dialogue: 0,0:08:41.09,0:08:43.00,italics,NOELLE (INT),0,0,0,,Bana öğrettiğin şey buydu!
+Dialogue: 0,0:08:44.92,0:08:48.43,main,NOELLE,0,0,0,,İyi falan değilim, Salaksta!
+Dialogue: 0,0:08:53.49,0:08:55.14,main,MEGICULA,0,0,0,,O insan da ne?
+Dialogue: 0,0:08:55.91,0:08:57.59,main,ASTA,0,0,0,,Kraliçe Loropechika...
+Dialogue: 0,0:08:57.90,0:09:01.94,main,ASTA,0,0,0,,Patlamasını önledik ama vücudunda\Nhâlâ çeşit çeşit lanet var.
+Dialogue: 0,0:09:02.26,0:09:05.44,main,LIEBE,0,0,0,,Daha sadece bir geçit açıldı...
+Dialogue: 0,0:09:05.84,0:09:08.44,main,LIEBE,0,0,0,,Bu şeytanın burada işi ne?!
+Dialogue: 0,0:09:08.80,0:09:14.04,main,LIEBE,0,0,0,,Dürüst olacağım, birleşmeden bunu \Nyenmemiz imkansız.
+Dialogue: 0,0:09:14.94,0:09:18.41,main,MEGICULA,0,0,0,,Tüm bunları Çürüyen Dünya'nın \Niçinde mi yaptı?
+Dialogue: 0,0:09:18.85,0:09:24.41,main,MEGICULA,0,0,0,,Anladım, bu diğerlerinin bahsettiği o\NAnti-Büyü çocuk olmalı.
+Dialogue: 0,0:09:25.27,0:09:26.78,italics,MEGICULA (INT),0,0,0,,Çok ilginç
+Dialogue: 0,0:09:26.78,0:09:30.62,italics,MEGICULA (INT),0,0,0,,en beklenmedik durumları\Nortaya çıkarabilir.
+Dialogue: 0,0:09:31.50,0:09:33.72,main,MEGICULA,0,0,0,,Bu kadar eğlence yeter.
+Dialogue: 0,0:09:35.30,0:09:40.58,main,MEGICULA,0,0,0,,Önce Vanica ve Loropechika'dan kurtulacağım.
+Dialogue: 0,0:09:40.58,0:09:42.98,main,MEGICULA,0,0,0,,Sonrasında doğrudan manifest edeceğim.
+Dialogue: 0,0:09:45.22,0:09:46.21,main,MEGICULA,0,0,0,,Ne?
+Dialogue: 0,0:09:46.21,0:09:47.73,italics,MEGICULA (INT),0,0,0,,Lanet rünleri yok oldu?
+Dialogue: 0,0:09:56.38,0:09:58.17,main,CHARLOTTE,0,0,0,,Ben hâlâ...
+Dialogue: 0,0:09:59.01,0:10:01.00,main,CHARLOTTE,0,0,0,,burada duruyorum!
+Dialogue: 0,0:10:01.31,0:10:03.23,main,MEGICULA,0,0,0,,O kadın... Nasıl?
+Dialogue: 0,0:10:03.23,0:10:05.58,main,MEGICULA,0,0,0,,İyileşmesi imkansız olmalıydı,
+Dialogue: 0,0:10:06.04,0:10:08.84,italics,MEGICULA (INT),0,0,0,,sadece o da değil, büyü gücü arttı!
+Dialogue: 0,0:10:10.57,0:10:14.76,main,RILL,0,0,0,,Bu alışık olduğum bir büyü değil, \No yüzden yapması biraz uzun sürdü.
+Dialogue: 0,0:10:22.09,0:10:24.55,italics,RILL (INT),0,0,0,,Alacakaranlık Cennet aktifken
+Dialogue: 0,0:10:24.55,0:10:26.97,italics,RILL (INT),0,0,0,,etrafındaki arkadaşlarının büyülerini güçlendirir
+Dialogue: 0,0:10:26.97,0:10:31.29,italics,RILL (INT),0,0,0,,ve ne olursa olsun ölümsüz kılar.
+Dialogue: 0,0:10:31.29,0:10:33.03,main,RILL,0,0,0,,Bi'kaç dakikalığına ölümsüzüz!
+Dialogue: 0,0:10:33.72,0:10:36.40,italics,RILL (INT),0,0,0,,Bittiğinde tüm hasar geri gelecek.
+Dialogue: 0,0:10:36.40,0:10:38.62,italics,RILL (INT),0,0,0,,Şu an bunu kim takar be!
+Dialogue: 0,0:10:38.62,0:10:41.81,main,ASTA,0,0,0,,Oha! Bu çok havalı Rill!
+Dialogue: 0,0:10:41.81,0:10:44.46,main,ASTA,0,0,0,,Hâlâ ölmediğin için çok mutluyum!
+Dialogue: 0,0:10:44.46,0:10:48.92,italics,RILL (INT),0,0,0,,Asta geç gelseydi, patlamadan önce bunu \Nyapmam imkansızdı.
+Dialogue: 0,0:10:49.38,0:10:52.38,main,RILL,0,0,0,,Onun sayesinde, ustalık eserimi yapacağım!
+Dialogue: 0,0:10:52.89,0:10:56.77,italics,MEGICULA (INT),0,0,0,,Tek tek bakınca hepsi çok güçsüz
+Dialogue: 0,0:10:56.77,0:10:59.59,italics,MEGICULA (INT),0,0,0,,ama güçlerini birleştirdiklerinde,\Ntüm bunları yapabiliyorlar.
+Dialogue: 0,0:11:00.26,0:11:03.33,main,MEGICULA,0,0,0,,Siz insanlar gerçekten harikasınız!
+Dialogue: 0,0:11:08.75,0:11:14.53,main,MEGICULA,0,0,0,,Vanica ve beni eğlendirmek uğruna \Nölen Karanlık Müritler kulenin altında uyuyor.
+Dialogue: 0,0:11:14.90,0:11:16.84,main,MEGICULA,0,0,0,,Onlara şeytanların güçlerini aşılayacağım.
+Dialogue: 0,0:11:16.84,0:11:22.63,main,MEGICULA,0,0,0,,Ruhlarını tuttuğum Acier Silvave Vanica'nın\Nyanı sıra
+Dialogue: 0,0:11:24.54,0:11:27.85,main,MEGICULA,0,0,0,,yaşayan demir ve kan cesetleri...
+Dialogue: 0,0:11:32.13,0:11:34.60,main,MEGICULA,0,0,0,,Toplamda yüz tane.
+Dialogue: 0,0:11:53.68,0:11:56.22,main,ASTA,0,0,0,,Hadi be! Gerçekten tüm vücudum acıyor!
+Dialogue: 0,0:11:56.22,0:11:58.36,main,ASTA,0,0,0,,ÇÜŞ BE! BİZİ DE AŞAĞIYA ÇEKİYORLAR!
+Dialogue: 0,0:12:04.76,0:12:07.21,main,UNDINE,0,0,0,,Loropechika'yı kurtardığın için teşekkürler!
+Dialogue: 0,0:12:07.21,0:12:09.88,main,ASTA,0,0,0,,Ne demek! Size de cok teşekkürler!
+Dialogue: 0,0:12:10.14,0:12:14.05,main,ASTA,0,0,0,,ÇOK ÖZÜR DİLERİM AMA ŞU AN\NTAMAMEN İŞE YARAMAZIM!
+Dialogue: 0,0:12:14.51,0:12:16.00,main,ASTA,0,0,0,,GERİSİNİ SEN HALLET!
+Dialogue: 0,0:12:16.00,0:12:19.53,main,NOELLE,0,0,0,,Ne?! Daha yeni geldin ne diyorsun\Nsen ya?!
+Dialogue: 0,0:12:19.53,0:12:21.80,main,ASTA,0,0,0,,Noelle! Hadi koçum yaparsın!
+Dialogue: 0,0:12:22.64,0:12:24.13,italics,NOELLE (INT),0,0,0,,Farkındayım.
+Dialogue: 0,0:12:24.53,0:12:27.89,italics,NOELLE (INT),0,0,0,,Her zamanki gibi vurdumduymaz \Ndavrandığına eminim.
+Dialogue: 0,0:12:28.63,0:12:29.98,italics,NOELLE (INT),0,0,0,,Yapacağını yaptın.
+Dialogue: 0,0:12:30.81,0:12:32.78,italics,NOELLE (INT),0,0,0,,Gelmen bile,
+Dialogue: 0,0:12:33.97,0:12:36.13,italics,NOELLE (INT),0,0,0,,Seni düşünmek bile,
+Dialogue: 0,0:12:37.46,0:12:39.44,italics,NOELLE (INT),0,0,0,,bana güç veriyor!
+Dialogue: 0,0:12:40.81,0:12:43.62,italics,NOELLE (INT),0,0,0,,Ah, demek ki doğruymuş.
+Dialogue: 0,0:12:44.33,0:12:46.42,italics,NOELLE (INT),0,0,0,,Şu an'a kadar bahaneler uydurup durdum
+Dialogue: 0,0:12:46.42,0:12:48.81,italics,NOELLE (INT),0,0,0,,böyle bir anda farkına vardığımı düşünmek...
+Dialogue: 0,0:12:50.33,0:12:53.75,italics,NOELLE (INT),0,0,0,,Sanırım Asta'yı gerçekten seviyorum
+Dialogue: 0,0:12:54.33,0:12:56.49,italics,NOELLE (INT),0,0,0,,fakat şu an, savaşın ortasındayız,
+Dialogue: 0,0:12:56.90,0:12:59.26,italics,NOELLE (INT),0,0,0,,şu an, Megicula'yı yeneceğim!
+Dialogue: 0,0:12:59.71,0:13:01.51,main,NOELLE,0,0,0,,Hadi Undine!
+Dialogue: 0,0:13:02.03,0:13:03.86,main,NOELLE,0,0,0,,Azizler Sahnesinde Son Perde!
+Dialogue: 0,0:13:11.19,0:13:13.44,main,ASTA,0,0,0,,Ohaa! Harikasın!
+Dialogue: 0,0:13:14.12,0:13:16.69,main,NOELLE,0,0,0,,Loropechikaya iyi bak, Asta!
+Dialogue: 0,0:13:16.69,0:13:18.44,main,ASTA,0,0,0,,Of, of, of! Sen halledersin!
+Dialogue: 0,0:13:21.83,0:13:26.18,main,UNDINE,0,0,0,,Bu orduyu yenecek kadar Azizler Sahnesi\Ngücüne sahip değiliz!
+Dialogue: 0,0:13:27.25,0:13:30.26,italics,RILL (INT),0,0,0,,Görsel Büyüsü: Cennet'in Üstadı.
+Dialogue: 0,0:13:32.02,0:13:34.02,italics,RILL (INT),0,0,0,,Noelle ve Azizler Sahnesi
+Dialogue: 0,0:13:34.02,0:13:37.53,italics,RILL (INT),0,0,0,,ve Anti-Lanet büyüsü ile Charlotte \Ngerçekten çok güçlü!
+Dialogue: 0,0:13:39.22,0:13:41.84,main,RILL,0,0,0,,Ben de size sağlam destek olacağım!
+Dialogue: 0,0:13:41.84,0:13:45.65,italics,CHARLOTTE (INT),0,0,0,,Mutlak Sarmaşık Büyüsü: Kızıl Sarmaşık Mızrağı!
+Dialogue: 0,0:13:48.29,0:13:52.04,main,MEGICULA,0,0,0,,Siz insanlar savaş ortasında\Nevrimleşip duruyorsunuz.
+Dialogue: 0,0:13:54.65,0:13:56.11,main,MEGICULA,0,0,0,,Siz gerçekten...
+Dialogue: 0,0:14:03.38,0:14:07.00,main,MEGICULA,0,0,0,,Harika oyuncaklarsınız.
+Dialogue: 0,0:14:12.64,0:14:13.87,main,RILL,0,0,0,,Noelle!
+Dialogue: 0,0:14:24.05,0:14:25.14,main,NOELLE,0,0,0,,Luck!
+Dialogue: 0,0:14:25.39,0:14:27.76,main,LUCK,0,0,0,,Yolu açacağım, beni takip et!
+Dialogue: 0,0:14:28.07,0:14:29.86,main,RILL,0,0,0,,Bu harika, siz var ya!
+Dialogue: 0,0:14:29.86,0:14:33.22,main,RILL,0,0,0,,İçim ilhamla dolup taşıyor!
+Dialogue: 0,0:14:33.22,0:14:35.52,italics,RILL (INT),0,0,0,,Bize yolu gösterecek bir yıldırım\Nbüyücüsü daha olsaydı,
+Dialogue: 0,0:14:35.81,0:14:37.77,italics,RILL (INT),0,0,0,,çok daha iyi olurdu!
+Dialogue: 0,0:14:47.38,0:14:50.29,italics,GAJA (INT),0,0,0,,Ben çoktan öldüm bile
+Dialogue: 0,0:14:53.20,0:14:54.62,italics,GAJA (INT),0,0,0,,ama yine de.
+Dialogue: 0,0:14:55.39,0:14:59.50,italics,GAJA (INT),0,0,0,,Kraliçe Loropechika adına savaşabildiğim\Niçin müteşekkirim!
+Dialogue: 0,0:15:00.71,0:15:02.71,main,LUCK,0,0,0,,Gaja!
+Dialogue: 0,0:15:06.48,0:15:07.63,main,LUCK,0,0,0,,Yapalım şu işi!
+Dialogue: 0,0:15:08.03,0:15:08.81,main,GAJA,0,0,0,,Evet!
+Dialogue: 0,0:15:23.85,0:15:24.82,italics,NOELLE (INT),0,0,0,,Şimdi!
+Dialogue: 0,0:15:32.25,0:15:34.79,main,MEGICULA,0,0,0,,Tamamlanmamış olsam bile,
+Dialogue: 0,0:15:34.79,0:15:37.40,main,MEGICULA,0,0,0,,beni bu kadar zorlamayı başardınız.
+Dialogue: 0,0:15:38.08,0:15:40.84,main,MEGICULA,0,0,0,,Gerçekten şaşkınım
+Dialogue: 0,0:15:41.84,0:15:43.31,main,MEGICULA,0,0,0,,ama yine de
+Dialogue: 0,0:15:45.96,0:15:47.68,main,MEGICULA,0,0,0,,burada sonlanıyor.
+Dialogue: 0,0:15:58.57,0:16:03.96,main,NOZEL,0,0,0,,Ne cürretle ailemin önünde karşıma \Nçıkarsın?
+Dialogue: 0,0:16:07.21,0:16:11.55,main,NOZEL,0,0,0,,Bu anı ne kadar süredir beklediğimi\Nanlayamazsın.
+Dialogue: 0,0:16:17.73,0:16:22.84,italics,NOZEL (INT),0,0,0,,Anneme o lanet uygulandıkdan sonra,\Nhızlıca ölüverdi.
+Dialogue: 0,0:16:23.42,0:16:25.85,italics,NOZEL (INT),0,0,0,,Ailemizin olanlardan haberi yoktu,
+Dialogue: 0,0:16:25.85,0:16:28.43,italics,NOZEL (INT),0,0,0,,yeni doğum yaptığı için olduğunu\Nzannettiler.
+Dialogue: 0,0:16:29.52,0:16:32.84,italics,NOZEL (INT),0,0,0,,Anneme Lanet Önleyici büyü yapıldığında,
+Dialogue: 0,0:16:32.84,0:16:35.39,italics,NOZEL (INT),0,0,0,,beni de etkiledi.
+Dialogue: 0,0:16:36.08,0:16:39.51,italics,NOZEL (INT),0,0,0,,Acier Silva'nın ölümünün Megicula\Nyüzünden olduğunu insanlara söyleseydim,
+Dialogue: 0,0:16:39.51,0:16:40.97,italics,NOZEL (INT),0,0,0,,ben de ölürdüm.
+Dialogue: 0,0:16:41.69,0:16:46.75,italics,NOZEL (INT),0,0,0,,Birine söyleseydim, bunu duyan da\Nlanetlenirdi.
+Dialogue: 0,0:16:46.75,0:16:49.97,italics,NOZEL (INT),0,0,0,,Hastalık gibi yayılan bir büyü.
+Dialogue: 0,0:16:51.00,0:16:53.35,flashback italics,YOUNG NOZEL (INT)(FB),0,0,0,,Kimseye söyleyemem.
+Dialogue: 0,0:16:53.69,0:16:55.89,flashback italics,YOUNG NOZEL (INT)(FB),0,0,0,,Kendi başıma bir şeyler yapmam\Nlazım.
+Dialogue: 0,0:16:56.40,0:16:58.07,flashback italics,YOUNG NOZEL (INT)(FB),0,0,0,,Annemi kurtarmam lazım!
+Dialogue: 0,0:16:58.49,0:17:00.51,flashback italics,YOUNG NOZEL (INT)(FB),0,0,0,,Laneti kırmanın bir yolunu bulmam lazım!
+Dialogue: 0,0:17:01.14,0:17:03.59,flashback,ACIER (FB),0,0,0,,Nozel... Bu kadarı yeterli.
+Dialogue: 0,0:17:07.69,0:17:11.22,flashback,ACIER (FB),0,0,0,,Buna devam edersen, kendi başını \Nbelaya sokacaksın.
+Dialogue: 0,0:17:11.85,0:17:12.97,flashback,YOUNG NOZEL (FB),0,0,0,,Ama...
+Dialogue: 0,0:17:13.83,0:17:16.89,flashback,ACIER (FB),0,0,0,,İnsanlar kolayca güçlenmez
+Dialogue: 0,0:17:19.73,0:17:21.37,flashback,ACIER (FB),0,0,0,,ama endişelenme,
+Dialogue: 0,0:17:22.81,0:17:25.72,flashback,ACIER (FB),0,0,0,,Sen... Hepiniz...
+Dialogue: 0,0:17:26.34,0:17:28.76,flashback,ACIER (FB),0,0,0,,Bir gün benden daha güçlü olacaksınız.
+Dialogue: 0,0:17:30.25,0:17:31.85,flashback,ACIER (FB),0,0,0,,Bu yüzden yaşa,
+Dialogue: 0,0:17:33.19,0:17:34.06,flashback,ACIER (FB),0,0,0,,Nozel.
+Dialogue: 0,0:17:44.14,0:17:48.13,italics,NOZEL (INT),0,0,0,,Lanetlendikten bir yıl sonra, Annem öldü.
+Dialogue: 0,0:17:48.57,0:17:54.59,italics,NOZEL (INT),0,0,0,,O süre boyunca çaresizce izlemekten\Nbaşka hiçbir şey yapamadım.
+Dialogue: 0,0:17:58.81,0:18:00.10,flashback italics,YOUNG NOZEL (INT)(FB),0,0,0,,Daha güçlü...
+Dialogue: 0,0:18:04.04,0:18:06.30,flashback italics,NOZEL (INT)(FB),0,0,0,,Daha da güçlenmem lazım.
+Dialogue: 0,0:18:07.85,0:18:13.73,flashback italics,NOZEL (INT)(FB),0,0,0,,Bu sayede annemin intikamını alabilir,\Nkardeşlerimi koruyabilirim!
+Dialogue: 0,0:18:15.12,0:18:18.22,flashback italics,NOZEL (INT)(FB),0,0,0,,Nebra ve Solid'de güçleniyor,
+Dialogue: 0,0:18:18.57,0:18:21.37,flashback italics,NOZEL (INT)(FB),0,0,0,,fakat öyle bir düşmanla denk olamazlar
+Dialogue: 0,0:18:21.87,0:18:22.96,flashback italics,NOZEL (INT)(FB),0,0,0,,ve Noelle.
+Dialogue: 0,0:18:23.31,0:18:26.88,flashback,NOELLE (FB),0,0,0,,Nozel... Bana büyü öğretir misin?
+Dialogue: 0,0:18:27.52,0:18:29.93,flashback italics,NOZEL (INT)(FB),0,0,0,,Eğer güçlenmesinin imkanı yoksa,
+Dialogue: 0,0:18:29.93,0:18:32.88,flashback italics,NOZEL (INT)(FB),0,0,0,,onu uzağa göndermek en iyisi olur.
+Dialogue: 0,0:18:33.87,0:18:37.72,flashback,NOZEL (FB),0,0,0,,Senin gibi başarısızların savaş\Nalanında yeri yok.
+Dialogue: 0,0:18:38.44,0:18:41.10,flashback italics,NOZEL (INT)(FB),0,0,0,,Benim hissettiğim gibi hissedicekse,
+Dialogue: 0,0:18:41.10,0:18:42.95,flashback italics,NOZEL (INT)(FB),0,0,0,,onu savaştan uzak tutmalıyım.
+Dialogue: 0,0:18:44.16,0:18:49.85,flashback,NOZEL (FB),0,0,0,,Annem niye senin gibi birini doğurdu ki?
+Dialogue: 0,0:18:51.41,0:18:53.93,flashback,NOZEL (FB),0,0,0,,Annemi sen öldürdün.
+Dialogue: 0,0:18:55.66,0:18:56.99,flashback italics,NOZEL (INT)(FB),0,0,0,,Hayır!
+Dialogue: 0,0:18:57.74,0:18:59.48,flashback italics,NOZEL (INT)(FB),0,0,0,,Onu ben öldürdüm!
+Dialogue: 0,0:19:00.87,0:19:03.62,flashback italics,NOZEL (INT)(FB),0,0,0,,İşe yaramazım ve bir bok yapamıyorum.
+Dialogue: 0,0:19:04.17,0:19:07.25,flashback italics,NOZEL (INT)(FB),0,0,0,,Daha çok kaybetmekten \Nkorktum, ben de uzaklara kaçtım.
+Dialogue: 0,0:19:07.25,0:19:10.14,flashback italics,NOZEL (INT)(FB),0,0,0,,Ben kimseyi koruyamayan bir ucubeyim.
+Dialogue: 0,0:19:11.93,0:19:15.77,flashback italics,NOZEL (INT)(FB),0,0,0,,Bu raddede seninle muhattap olmam için \Nhiç bir sebep yok.
+Dialogue: 0,0:19:16.94,0:19:18.14,flashback italics,NOZEL (INT)(FB),0,0,0,,Daha güçlü...
+Dialogue: 0,0:19:20.08,0:19:21.56,flashback italics,NOZEL (INT)(FB),0,0,0,,Daha güçlü!
+Dialogue: 0,0:19:25.19,0:19:28.56,flashback italics,NOZEL (INT)(FB),0,0,0,,Mantıklı olan Büyücü Kral olmayı denemekti
+Dialogue: 0,0:19:29.48,0:19:33.68,flashback italics,NOZEL (INT)(FB),0,0,0,,burada ölemem...
+Dialogue: 0,0:19:34.36,0:19:38.11,flashback italics,NOZEL (INT)(FB),0,0,0,,Kötü büyüleri olan düşmanlarla \Nsavaşabildim.
+Dialogue: 0,0:19:38.11,0:19:41.49,flashback italics,NOZEL (INT)(FB),0,0,0,,Yaklaşan zamanın hatrına...
+Dialogue: 0,0:19:47.45,0:19:48.25,main,NOZEL,0,0,0,,Buradaki herkese...
+Dialogue: 0,0:19:49.00,0:19:52.42,main,NOZEL,0,0,0,,Teşekkür etmek istiyorum.
+Dialogue: 0,0:19:58.64,0:20:02.06,main,NOZEL,0,0,0,,Sonunda yeniden buluştuk.
+Dialogue: 0,0:20:03.05,0:20:05.85,main,NOZEL,0,0,0,,Sahip olduğum herşeyi bu saldırıya veriyorum!
+Dialogue: 0,0:20:10.50,0:20:14.36,main,MEGICULA,0,0,0,,Duygusal bir kavuşma...\NBöyle bir şey mi?
+Dialogue: 0,0:20:20.56,0:20:24.29,main,MEGICULA,0,0,0,,Üzgünüm ama benim \Nöyle duygularım yok.
+Dialogue: 0,0:20:27.04,0:20:31.46,flashback,ACIER (FB),0,0,0,,Sen çelik gibi kuvvetli ve su gibi esneksin.
+Dialogue: 0,0:20:31.69,0:20:33.42,main,NOZEL,0,0,0,,BUNDAN KAÇABİLECEĞİNİ DÜŞÜNME!
+Dialogue: 0,0:20:35.47,0:20:39.63,italics,NOZEL (INT),0,0,0,,Kan fışkırıyor...\NÇelik içinden geçiyor...
+Dialogue: 0,0:20:40.28,0:20:44.14,italics,NOZEL (INT),0,0,0,,Buna rağmen, kalplerini parçalayamıyorum.
+Dialogue: 0,0:20:45.02,0:20:47.56,italics,NOZEL (INT),0,0,0,,Sanırım bunca zamandır yanılmışım...
+Dialogue: 0,0:20:47.80,0:20:51.06,italics,NOZEL (INT),0,0,0,,Onu dışlamamalı ve olanlardan uzak tutmamalıydım.
+Dialogue: 0,0:20:53.05,0:20:56.07,italics,NOZEL (INT),0,0,0,,Hep beraber güçlenmemiz lazım.
+Dialogue: 0,0:21:01.21,0:21:02.87,main,NOELLE,0,0,0,,Pes etmedik!
+Dialogue: 0,0:21:03.42,0:21:06.24,main,NOELLE,0,0,0,,Bu yüzden kazanacağız, Megicula!
+Dialogue: 0,0:21:14.10,0:21:19.52,italics,MEGICULA (INT),0,0,0,,Gardımı indirmedim ama insanlara\Nyenilmeyeceğimi anlamıştım.
+Dialogue: 0,0:21:22.38,0:21:29.02,main,MEGICULA,0,0,0,,Görünüşe göre gerçek gücünü hafife almışım.
+Dialogue: 0,0:21:30.24,0:21:33.31,italics,MEGICULA (INT),0,0,0,,İnsanların duygularına merak salmama
+Dialogue: 0,0:21:33.31,0:21:37.21,italics,MEGICULA (INT),0,0,0,,izin vermemin sebebi bu muydu acaba?
+Dialogue: 0,0:21:51.91,0:21:56.38,main,ACIER,0,0,0,,Siz ikiniz... Çok güçlendiniz.
